@@ -1,0 +1,54 @@
+Disease_Subtype,grouped disease subtypes 
+Focal (Partial) Seizures,Focal Epilepsy
+Focal to bilateral tonic-clonic,Focal Epilepsy
+Temporal Lobe Epilepsy,Focal Epilepsy
+Drug-resistant focal epilepsy,Focal Epilepsy
+MRI-negative Epilepsy,Focal Epilepsy
+"Structural lesions (post-stroke, tumors)",Focal Epilepsy
+Post-traumatic or structural epilepsy,Focal Epilepsy
+Post-traumatic or lesional epilepsy,Focal Epilepsy
+Focal/Generalized Drug-Resistant Epilepsy,Focal Epilepsy
+Generalized Epilepsies,Generalized Epilepsy 
+Generalized Epilepsy (refractory cases),Generalized Epilepsy 
+Generalized Tonic-Clonic Seizures,Generalized Epilepsy 
+Generalized Tonic Seizures (in LGS context),Generalized Epilepsy 
+Generalized Non-Motor (Typical Absence),Generalized Epilepsy 
+Generalized epilepsy (GTC without focality),Generalized Epilepsy 
+Idiopathic Generalized Epilepsy (IGE),Generalized Epilepsy 
+Absence Epilepsies ,Absence Epilepsy
+Absence Seizures,Absence Epilepsy
+Atypical Absence Seizures,Absence Epilepsy
+Refractory Absence Epilepsy,Absence Epilepsy
+Childhood Absence Epilepsy (CAE),Absence Epilepsy
+Juvenile Myoclonic Epilepsy (JME),Myoclonic Epilepsy
+Myoclonic Epilepsies,Myoclonic Epilepsy
+Myoclonic Seizures,Myoclonic Epilepsy
+Lennox-Gastaut Syndrome,Lennox-Gastaut Syndrome (LGS)
+Generalized Tonic Seizures (in LGS context),Lennox-Gastaut Syndrome (LGS)
+Atonic Seizures (common in LGS),Lennox-Gastaut Syndrome (LGS)
+Typical Status Epilepticus (early),Status Epilepticus (SE)
+Refractory Status Epilepticus (RSE),Status Epilepticus (SE)
+Super-Refractory SE (SRSE),Status Epilepticus (SE)
+Status Epilepticus,Status Epilepticus (SE)
+Infantile epileptic encephalopathies,INFANTILE / PEDIATRIC SYNDROMES
+Infantile Spasms (West Syndrome),INFANTILE / PEDIATRIC SYNDROMES
+Tuberous Sclerosis Complex (TSC)-associated epilepsy,INFANTILE / PEDIATRIC SYNDROMES
+Rett Syndrome / Tuberous Sclerosis,INFANTILE / PEDIATRIC SYNDROMES
+Startle-Induced Epilepsy,INFANTILE / PEDIATRIC SYNDROMES
+Dravet Syndrome,INFANTILE / PEDIATRIC SYNDROMES
+GRIN mutation (GOF) epilepsies,INFANTILE / PEDIATRIC SYNDROMES
+Pediatric epilepsy,INFANTILE / PEDIATRIC SYNDROMES
+Psychogenic Non-Epileptic Seizures (PNES),FUNCTIONAL / PSYCHOGENIC / NON-EPILEPTIC
+Basilar Migraine with Seizures,FUNCTIONAL / PSYCHOGENIC / NON-EPILEPTIC
+Catamenial Epilepsy (menstrual cycle-related),HORMONE-RELATED / SPECIAL TRIGGERS
+Photosensitive Epilepsy,HORMONE-RELATED / SPECIAL TRIGGERS
+"Acute symptomatic seizures (e.g., alcohol withdrawal)",HORMONE-RELATED / SPECIAL TRIGGERS
+Procedural/acute seizure induction prevention,HORMONE-RELATED / SPECIAL TRIGGERS
+Sleep-Related Epilepsies,HORMONE-RELATED / SPECIAL TRIGGERS
+Febrile Seizures (Complex/Prolonged),HORMONE-RELATED / SPECIAL TRIGGERS
+Acute Repetitive Seizure (Cluster Seizures),HORMONE-RELATED / SPECIAL TRIGGERS
+Recent Seizures,HORMONE-RELATED / SPECIAL TRIGGERS
+Chronic Epilepsy,CHRONIC / OUTPATIENT / SURGICAL
+Outpatient use,CHRONIC / OUTPATIENT / SURGICAL
+Epilepsy Surgery Candidates,CHRONIC / OUTPATIENT / SURGICAL
+All Epilepsy Types,CHRONIC / OUTPATIENT / SURGICAL

@@ -1,0 +1,255 @@
+Drug,Disease_Subtype,Prescribed,Note
+Carbamazepine,Focal (Partial) Seizures,Yes,"First-line, most common and well-supported use"
+Tramadol,Focal (Partial) Seizures,No,"Risk of provoking new or worsening focal seizures, especially at higher doses or with rapid dose increases"
+Cannabidiol,Focal (Partial) Seizures,No  ,Not officially approved as monotherapy for focal seizures. Off-label use needs careful monitoring
+Zonisamide,Focal (Partial) Seizures,Yes,(adults and children) FDA-approved for adjunctive treatment. Effective against focal-onset seizures with or without secondary generalization
+Oxcarbazepine,Focal (Partial) Seizures,Yes,"(adults and children) Primary FDA-approved use. Very effective for focal-onset seizures, with or without secondary generalization. A common first-line treatment"
+Felbamate,Focal (Partial) Seizures,Yes,Also FDA-approved for refractory focal epilepsy. Can significantly reduce seizure frequency in patients who have not responded to other antiepileptic drugs (in adults)
+Trimethadione,Focal (Partial) Seizures,No,"Not effective; absence seizures are generalized, not focal"
+Metharbital,Focal (Partial) Seizures,Yes,"Historically used for focal seizures, especially if phenobarbital was too sedating"
+Phenacemide,Focal (Partial) Seizures,Yes,Effective; used historically for refractory focal seizures not controlled by other drugs
+Butriptyline,Focal (Partial) Seizures,No,"TCAs like butriptyline lower seizure threshold across all epilepsy types. Use extreme caution if prescribed for depression, pain, or migraine in patients with epilepsy"
+Baclofen,Focal (Partial) Seizures,No,"Baclofen lowers seizure threshold especially at high doses or during withdrawal, increasing risk of seizures. Some early research suggested baclofen might suppress certain seizure types experimentally, but it is not clinically used for seizure control"
+Lacosamide,Focal (Partial) Seizures,Yes,First-line or adjunctive treatment; FDA-approved for focal onset seizures in adults and children. Highly effective
+Vigabatrin,Focal (Partial) Seizures,Yes,"Focal Seizures in TSC Patients Recognized as effective for various seizure types in TSC patients, including focal seizures"
+Lamotrigine,Focal (Partial) Seizures,Yes,First-line treatment for focal seizures in both adults and children
+Ethosuximide,Focal (Partial) Seizures,No,"Ineffective; should not be used in focal epilepsies, could delay appropriate treatment"
+Mephenytoin,Focal (Partial) Seizures,Yes,Historically used for focal seizures; similar mechanism to phenytoin (sodium channel blocker)
+Phensuximide,Focal (Partial) Seizures,No,Not indicated; does not control focal seizures and may delay appropriate treatment
+Clobazam,Focal (Partial) Seizures,Yes,Useful as adjunctive therapy; improves seizure control in refractory focal epilepsy
+Caffeine,Focal (Partial) Seizures,No,Excessive caffeine can provoke seizures or worsen control by increasing cortical excitability
+Valproic acid,Focal (Partial) Seizures,Yes,"Generally effective, but not always (some cases) first-line for purely focal epilepsy; newer agents may be preferred for better side effect profile"
+Clonazepam,Focal (Partial) Seizures,No,"(Monotherapy) Not first-line, less effective than other AEDs; typically avoided as standalone treatment"
+Tiagabine,Focal (Partial) Seizures,Yes,"FDA-approved (adjunct), enhances GABA availability; effective when added to other AEDs"
+Ethoxzolamide,Focal (Partial) Seizures,No,"Not well-studied, limited data; may be ineffective for complex partial epilepsy"
+Levetiracetam,Focal (Partial) Seizures,Yes,"FDA-approved, first-line or adjunct in adults and children; well-tolerated"
+Methylphenobarbital,Focal (Partial) Seizures,Yes,"Effective, long-acting barbiturate; acts similarly to phenobarbital"
+Ezogabine,Focal (Partial) Seizures,Yes,"Effective (adjunct), FDA-approved in 2011 for adjunctive treatment of drug-resistant focal seizures"
+Rufinamide,Focal (Partial) Seizures,Yes,"Adjunct (off-label), (in children ?4) approved in Europe for focal seizures; less commonly used in adults"
+Methsuximide,Focal (Partial) Seizures,No,"May worsen, ineffective and may aggravate seizure activity"
+Methacholine,Focal (Partial) Seizures,No,"Risk of triggering seizures due to autonomic nervous system effects, especially if brain regions controlling autonomic functions are involved"
+Fludeoxyglucose (18F),Focal (Partial) Seizures,Yes,"(Extratemporal Focal Epilepsies) useful for detecting subtle focal hypometabolism in frontal, parietal, or occipital lobe epilepsies when MRI is inconclusive."
+Carbamazepine,Focal to bilateral tonic-clonic,Yes,"Effective, also used as monotherapy"
+Oxcarbazepine,Focal to bilateral tonic-clonic,Yes,Helps prevent spread of focal seizures into bilateral tonic-clonic seizures
+Phenacemide,Focal to bilateral tonic-clonic,Yes,Helped prevent the spread of focal seizures into generalized seizures. Used as an adjunctive therapy
+Lacosamide,Focal to bilateral tonic-clonic,Yes,Effective for preventing spread of focal seizures into generalized convulsions
+Tiagabine,Focal to bilateral tonic-clonic,Yes,"May help reduce spread, useful in preventing secondary generalization"
+Levetiracetam,Focal to bilateral tonic-clonic,Yes,"Effective, reduces secondary generalization effectively"
+Methylphenobarbital,Focal to bilateral tonic-clonic,Yes,"Effective, may reduce spread of seizure activity"
+Tiagabine,Temporal Lobe Epilepsy,Yes,"Effective in some cases, shown to reduce complex partial seizures originating in mesial regions"
+Fludeoxyglucose (18F),Temporal Lobe Epilepsy,Yes,"Highly effective; identifies hypometabolic regions that correlate with epileptic foci (e.g., mesial temporal sclerosis). Essential in presurgical evaluation"
+Carbamazepine,Temporal Lobe Epilepsy,Yes,"Effective, often long-term treatment"
+Ezogabine,Drug-resistant focal epilepsy,Yes,"Moderate efficacy, used in patients not responding to ?2 other AEDs. Showed ~50% responder rate in trials"
+Oxcarbazepine,Drug-resistant focal epilepsy,Yes,Often used when initial medications (like carbamazepine) fail or cause intolerable side effects
+Vigabatrin,Drug-resistant focal epilepsy,Yes,Used as adjunctive therapy in adults with refractory focal epilepsy when other treatments fail. Helpful but not first-line for new diagnosis
+Flunarizine,Drug-resistant focal epilepsy,Yes,"Adjunct in select cases, can provide modest seizure reduction when added to polytherapy"
+Fludeoxyglucose (18F),MRI-negative Epilepsy,Yes,"Helps localize seizure focus when MRI appears normal (""nonlesional epilepsy"")"
+Carbamazepine,"Structural lesions (post-stroke, tumors)",Yes,"Commonly used, if focal onset is confirmed"
+Methylphenobarbital,Post-traumatic or structural epilepsy,Yes,"Effective, used where phenobarbital is indicated but longer action is preferred"
+Tramadol,Post-traumatic or structural epilepsy,No,Increased vulnerability to seizure induction by tramadol even at normal analgesic doses.
+Butriptyline,Post-traumatic or structural epilepsy,No,"(post-stroke, tumor-related epilepsy) Even more vulnerable to seizure worsening due to underlying brain lesions"
+Ezogabine,Post-traumatic or lesional epilepsy,Yes,"Considered (case-based), may help when seizures originate from structural brain damage"
+Ketamine,Focal/Generalized Drug-Resistant Epilepsy,Yes,"Last-line adjunct, reduces excitatory drive, Limited long-term data"
+Cannabidiol,Focal/Generalized Drug-Resistant Epilepsy,Yes,"(some off-label use) In resistant epilepsy outside FDA-labeled indications, CBD has shown some benefit in small studies. Usually as adjunct therapy"
+Metharbital,Focal/Generalized Drug-Resistant Epilepsy,Yes,(Historic Use) Occasionally used in patients who could not tolerate phenobarbital or needed an alternative barbiturate
+Phenacemide,Focal/Generalized Drug-Resistant Epilepsy,Yes,(Historic Use) Used for patients who failed other AEDs like phenobarbital or phenytoin
+Memantine  ,Focal/Generalized Drug-Resistant Epilepsy,Yes,"Off-label adjunct, Modulates glutamatergic tone, Modest benefit in small trials"
+Dextromethorphan ,Focal/Generalized Drug-Resistant Epilepsy,Yes,"Experimental, NMDA blockade, neuroprotection, theoretical; no guideline use"
+Ezogabine,Generalized Epilepsies,No,"Not recommended, not studied; efficacy unknown and may be ineffective for absence/myoclonic seizures"
+Tramadol,Generalized Epilepsies,No,"(e.g., GTC, JME) May worsen generalized tonic-clonic or myoclonic seizures"
+Oxcarbazepine,Generalized Epilepsies,No  ,"(e.g., Juvenile Myoclonic Epilepsy, Childhood Absence Epilepsy) May worsen myoclonic, absence, and generalized tonic-clonic seizures in primary generalized epilepsies. Not recommended for these types"
+Felbamate,Generalized Epilepsies,Yes,"Limited role. Felbamate is generally reserved for focal or LGS-related seizures, not classic primary generalized epilepsies like Juvenile Myoclonic Epilepsy (JME)"
+Butriptyline,Generalized Epilepsies,No,"(e.g., Juvenile Myoclonic Epilepsy, Absence Epilepsy) Particularly risky; generalized seizure types may worsen unpredictably with lowered threshold"
+Fludeoxyglucose (18F),Generalized Epilepsies,No,"(e.g., Juvenile Myoclonic Epilepsy, Absence Epilepsy) Limited use; generalized epilepsies usually show widespread or symmetric patterns, making localization difficult"
+Baclofen,Generalized Epilepsies,No,"Baclofen lowers seizure threshold especially at high doses or during withdrawal, increasing risk of seizures. Some early research suggested baclofen might suppress certain seizure types experimentally, but it is not clinically used for seizure control"
+Vigabatrin,Generalized Epilepsies,No,"(e.g., Juvenile Myoclonic Epilepsy) May worsen generalized seizure types like absence and myoclonic seizures"
+Methacholine,Generalized Epilepsies,No,Methacholine can induce parasympathetic activation ? may lower seizure threshold in susceptible individuals
+Caffeine,Generalized Epilepsies,No,"(e.g., JME, Absence) Caffeine may lower seizure threshold; can increase risk of seizures, especially in generalized epilepsy types"
+Tiagabine,Generalized Epilepsies,No,"(esp. JME) May worsen, can exacerbate absence or myoclonic seizures; avoid in generalized types"
+Rufinamide,Generalized Epilepsies,No,"(non-LGS) Variable effects, limited data outside LGS; caution if used without syndrome-specific evidence"
+Ethoxzolamide,Generalized Epilepsy (refractory cases),Yes,"Occasionally used, may reduce seizure frequency in patients unresponsive to other AEDs"
+Zonisamide,Generalized Epilepsy (refractory cases),Yes,Effective in patients with mixed seizure types when other medications have failed
+Felbamate,Generalized Epilepsy (refractory cases),Yes,Sometimes used off-label when multiple seizure types are present and resistant to standard therapies
+Methylphenobarbital,Generalized Tonic-Clonic Seizures,Yes,"Occasionally used, not first-line, but effective in certain cases where others fail"
+Zonisamide,Generalized Tonic-Clonic Seizures,Yes,(off-label) Often used off-label for generalized tonic-clonic seizures; evidence supports efficacy
+Felbamate,Generalized Tonic-Clonic Seizures,Yes,Effective by controlling the focal onset that spreads secondarily to generalized tonic-clonic seizures
+Trimethadione,Generalized Tonic-Clonic Seizures,No,Ineffective and may allow progression into convulsions. Needs combination therapy if patient has mixed seizures
+Metharbital,Generalized Tonic-Clonic Seizures,Yes,Used to control generalized convulsive seizures; considered an alternative to phenobarbital
+Lacosamide,Generalized Tonic-Clonic Seizures,Yes,Approved for use in primary generalized tonic-clonic seizures (PGTCS) in idiopathic generalized epilepsy (recent indication)
+Lamotrigine,Generalized Tonic-Clonic Seizures,Yes,Effective; often used as monotherapy for generalized convulsions
+Ethosuximide,Generalized Tonic-Clonic Seizures,No,Not effective; ethosuximide alone can leave tonic-clonic seizures untreated and potentially worsen outcomes
+Mephenytoin,Generalized Tonic-Clonic Seizures,Yes,Used in the past for generalized convulsions; less preferred now due to toxicity risks
+Phensuximide,Generalized Tonic-Clonic Seizures,No,Ineffective and may worsen seizure control if used alone
+Clobazam,Generalized Tonic-Clonic Seizures,Yes,Can be effective as adjunct therapy; often used when first-line drugs are insufficient
+Valproic acid,Generalized Tonic-Clonic Seizures,Yes,Very effective; often first-line treatment
+Levetiracetam,Generalized Tonic-Clonic Seizures,Yes,"FDA-approved (adjunct), used in idiopathic generalized epilepsy and symptomatic cases."
+Methsuximide,Generalized Tonic-Clonic Seizures,No,"Not effective, no proven efficacy; may lead to breakthrough seizures if used alone"
+Rufinamide,Generalized Tonic Seizures (in LGS context),Yes,"Moderate efficacy, often improves seizure control as part of multi-drug regimens in severe epileptic encephalopathies"
+Methsuximide,Generalized Non-Motor (Typical Absence),Yes,"Effective, suppresses 3-Hz spike-and-wave discharges on EEG"
+Carbamazepine,Generalized epilepsy (GTC without focality),No,"Variable, not first-line; valproate or lamotrigine preferred"
+Methylphenobarbital,Idiopathic Generalized Epilepsy (IGE),No,"Avoid, not suitable; can worsen absence/myoclonic seizures"
+Lamotrigine,Idiopathic Generalized Epilepsy (IGE),Yes,Broad-spectrum coverage; often used when multiple generalized seizure types coexist
+Flunarizine,Idiopathic Generalized Epilepsy (IGE),No,"Unclear benefit, may be ineffective or unstudied; lacks data for absence/myoclonic types"
+Carbamazepine,Absence Epilepsies,No,"Avoid, ineffective, may exacerbate"
+Tiagabine,Absence Epilepsies,No,"Contraindicated, has been reported to induce nonconvulsive status epilepticus"
+Ketamine ,Absence Epilepsies,No,"Not effective, NMDA block has no effect on 3-Hz spike"
+Memantine  ,Absence Epilepsies,No,"May worsen, may disrupt thalamocortical loops"
+Dextromethorphan ,Absence Epilepsies,No,"No data; avoid, unknown/ineffective"
+Methylphenobarbital,Absence Epilepsies,No,"May worsen, can increase seizure frequency or alter consciousness"
+Remimazolam,Absence Epilepsies,No,"Ineffective long-term, long-term Benzodiazepines may help acutely, but Remimazolam's ultrashort duration limits usefulness"
+Rufinamide,Absence Epilepsies,No,"(typical) May worsen, Reports suggest it can aggravate 3-Hz spike-wave activity; not recommended"
+Levetiracetam,Absence Seizures,No,"May be ineffective, not first-line; evidence is limited and inconsistent"
+Cannabidiol,Absence Seizures,Yes,Limited evidence for absence seizures; may not be effective alone for typical absence epilepsy
+Zonisamide,Absence Seizures,No,May be less effective and could worsen absence seizures; not recommended as monotherapy for typical absence epilepsy
+Felbamate,Absence Seizures,Yes,"(routine management) Not first-line for typical absence seizures; ethosuximide or valproate are preferred. May not worsen them, but benefit is limited"
+Trimethadione,Absence Seizures,Yes,Primary indication: very effective against classic absence seizures in childhood absence epilepsy (when ethosuximide or valproate unavailable or ineffective)
+Metharbital,Absence Seizures,No,"Not effective; like other barbiturates, may worsen absence seizures"
+Phenacemide,Absence Seizures,No,Not effective; can worsen typical absence seizures — similar to phenytoin
+Lacosamide,Absence Seizures,No,Not effective; may worsen absence seizures or be ineffective if misused
+Vigabatrin,Absence Seizures,No,Ineffective; can actually exacerbate absence seizures
+Oxazepam,Absence Seizures,No,"Not effective; no benefit shown, and sedation could complicate assessment"
+Lamotrigine,Absence Seizures,Yes,"Effective in typical absence seizure, though slightly less effective than ethosuximide for pure absence epilepsy. Good if mixed seizure types exist."
+Ethosuximide,Absence Seizures,Yes,"First-line treatment for typical absence seizure; highly effective for typical absence seizures, especially in childhood absence epilepsy (CAE)"
+Mephenytoin,Absence Seizures,No,Ineffective and may worsen typical absence seizures
+Phensuximide,Absence Seizures,Yes,"Used for typical absence seizures, but less effective and more toxic compared to ethosuximide. Historically an option when ethosuximide was not tolerated"
+Clobazam,Absence Seizures,No,(Pure Absence Epilepsy) May not be very effective; can sometimes paradoxically worsen typical absence seizures or cause sedation that complicates assessment
+Valproic acid,Absence Seizures,Yes,Highly effective; one of the main options along with ethosuximide
+Ethoxzolamide,Absence Seizures,Yes,"Effective (alternative), similar to acetazolamide; reduces T-type calcium current; limited use today"
+Rufinamide,Atypical Absence Seizures,Yes,"Partial benefit, shown to reduce seizure burden in LGS patients with atypical absences"
+Trimethadione,Atypical Absence Seizures,Yes,"May have some effect, but not as reliably as with typical absences. Usually not first choice today"
+Clonazepam,Atypical Absence Seizures,Yes,"Can be helpful, used when first-line treatments fail, especially in symptomatic generalized epilepsies"
+Methsuximide,Refractory Absence Epilepsy,Yes,"Effective (2nd-line), used when Ethosuximide or Valproate fails; can be more sedating"
+Levetiracetam,Childhood Absence Epilepsy (CAE),No,"Monitor closely, can cause irritability, aggression, mood swings in some patients"
+Ethosuximide,Childhood Absence Epilepsy (CAE),Yes,Standard of care; ethosuximide is often preferred over valproic acid when only absence seizures are present without generalized tonic-clonic seizures
+Carbamazepine,Juvenile Myoclonic Epilepsy (JME),No,"Contraindicated, may worsen myoclonic and absence seizures"
+Phenacemide,Juvenile Myoclonic Epilepsy (JME),No,Contraindicated; may exacerbate seizures in JME
+Lamotrigine,Juvenile Myoclonic Epilepsy (JME),Yes,Can be used cautiously; not first-line but may help for generalized tonic-clonic component
+Valproic acid,Juvenile Myoclonic Epilepsy (JME),Yes,Drug of choice; excellent control of both myoclonic and generalized seizures
+Clonazepam,Juvenile Myoclonic Epilepsy (JME),Yes,"Effective, particularly useful in Juvenile Myoclonic Epilepsy (JME) for myoclonic jerks."
+Levetiracetam,Juvenile Myoclonic Epilepsy (JME),Yes,"Often effective, effective against myoclonic and tonic-clonic seizures"
+Ketamine ,Juvenile Myoclonic Epilepsy (JME),No,"May worsen, enhances tonic inhibition"
+Memantine  ,Juvenile Myoclonic Epilepsy (JME),No,"Ineffective, not suited for generalized seizures"
+Dextromethorphan ,Juvenile Myoclonic Epilepsy (JME),No,"No role, unknown mechanism in JME"
+Methylphenobarbital,Juvenile Myoclonic Epilepsy (JME),No,"Contraindicated, may exacerbate myoclonic and absence seizures"
+Ezogabine,Juvenile Myoclonic Epilepsy (JME),No,"Avoid, no data; risk of worsening myoclonus or being ineffective"
+Rufinamide,Juvenile Myoclonic Epilepsy (JME),No,"Not effective, can worsen myoclonus; not suitable for idiopathic generalized epilepsies"
+Methsuximide,Myoclonic Epilepsies,No,"Contraindicated , can exacerbate myoclonic jerks or generalized discharges"
+Zonisamide,Myoclonic Epilepsies,Yes,"For Severe Myoclonic Epilepsy of Infancy (Dravet Syndrome), Not first choice; limited evidence for benefit and better options exist (e.g., clobazam, cannabidiol, fenfluramine)"
+Lacosamide,Myoclonic Epilepsies,No,Can worsen myoclonus and generalized seizures in these rare disorders
+Lamotrigine,Myoclonic Epilepsies,No,(with major myoclonus) Lamotrigine may exacerbate large myoclonic seizures if not properly selected or dosed
+Clobazam,Myoclonic Epilepsies,No,For Severe Myoclonic Epilepsies (without proper titration)High doses or rapid titration can occasionally exacerbate myoclonus before improving control. Careful dosing is essential
+Remimazolam,Myoclonic Epilepsies,Yes,"Short-duration effect, used perioperatively in patients with known epilepsy to reduce peri-ictal risk"
+Levetiracetam,Myoclonic Seizures,Yes,"Good option, often used in patients intolerant to valproic acid"
+Zonisamide,Myoclonic Seizures,Yes,"(some cases) Some benefit reported, although not first-line. Especially useful when combined with other broad-spectrum AEDs"
+Oxcarbazepine,Myoclonic Seizures,No,"Risk of aggravating myoclonus, particularly in genetic generalized epilepsy syndromes"
+Trimethadione,Myoclonic Seizures,No,Can worsen myoclonus or be ineffective; not appropriate for syndromes like Juvenile Myoclonic Epilepsy (JME)
+Metharbital,Myoclonic Seizures,No,Risk of exacerbating myoclonic jerks; not appropriate for generalized epilepsy syndromes like JME (Juvenile Myoclonic Epilepsy)
+Phenacemide,Myoclonic Seizures,No,Risk of worsening myoclonic seizures; generalized epilepsy syndromes are poor indications
+Diazepam,Myoclonic Seizures,No,"(routine management) Although diazepam can suppress myoclonus acutely, routine use may mask seizure activity and impair surgical planning or diagnostic clarity"
+Midazolam,Myoclonic Seizures,No,"While it can suppress myoclonus acutely, routine use may mask seizure semiology needed for diagnosis and surgical planning"
+Baclofen,Myoclonic Seizures,No,No benefit; excessive GABAergic tone could potentially exacerbate certain myoclonic patterns if misused
+Lacosamide,Myoclonic Seizures,No,May worsen myoclonic jerks (especially in syndromes like Juvenile Myoclonic Epilepsy)
+Vigabatrin,Myoclonic Seizures,No,Can worsen myoclonic jerks — use caution outside approved settings
+Quazepam,Myoclonic Seizures,No,"Benzodiazepines sometimes help myoclonus, but quazepam’s sedative profile is not tailored to epilepsy"
+Oxazepam,Myoclonic Seizures,No,Not useful; may not stop myoclonic jerks and could worsen sedation without controlling seizures
+Lamotrigine,Myoclonic Seizures,Yes,"(e.g., JME) May worsen myoclonic jerks in some patients; requires careful titration and monitoring"
+Ethosuximide,Myoclonic Seizures,No,Ineffective; may exacerbate myoclonic jerks if used alone in generalized epilepsies like Juvenile Myoclonic Epilepsy (JME)
+Mephenytoin,Myoclonic Seizures,No,Not effective; may exacerbate myoclonic jerks
+Phensuximide,Myoclonic Seizures,No,Not effective; may worsen seizure types involving sudden jerks
+Clobazam,Myoclonic Seizures,Yes,"May help control myoclonic jerks, especially in syndromes like juvenile myoclonic epilepsy (as adjunct)"
+Valproic acid,Myoclonic Seizures,Yes,"Very effective, especially in juvenile myoclonic epilepsy (JME)"
+Carbamazepine,Lennox-Gastaut Syndrome,No,"Not preferred, usually ineffective, may worsen tonic/atonic seizures"
+Tramadol,Lennox-Gastaut Syndrome,No,High risk: polyseizure syndromes may be particularly sensitive to tramadol’s pro-convulsant effects
+Cannabidiol,Lennox-Gastaut Syndrome,Yes,"FDA-approved (Epidiolex® brand). Reduces multiple seizure types (tonic, atonic, tonic-clonic) in LGS"
+Zonisamide,Lennox-Gastaut Syndrome,Yes,"(adjunctive therapy) Sometimes used off-label as adjunct therapy to control multiple seizure types, especially tonic and atonic seizures"
+Oxcarbazepine,Lennox-Gastaut Syndrome,No,May be insufficient alone for multiple seizure types (especially drop attacks). Needs cautious use or combination therapy
+Felbamate,Lennox-Gastaut Syndrome,Yes,"Primary FDA-approved indication. Effective against multiple seizure types in LGS, including atonic (drop) attacks, tonic, and partial seizures. Often used when other treatments fail"
+Trimethadione,Lennox-Gastaut Syndrome,No,Poor seizure control for the multiple seizure types seen in LGS; behavioral and cognitive side effects worsen quality of life
+Metharbital,Lennox-Gastaut Syndrome,No,Ineffective for mixed seizure types (especially absence and atonic seizures); behavioral side effects and sedation risks
+Phenacemide,Lennox-Gastaut Syndrome,No,(Mixed Seizures) Poor efficacy; behavioral side effects may worsen cognitive and psychiatric symptoms
+Butriptyline,Lennox-Gastaut Syndrome,No,High seizure burden patients should avoid TCAs when possible due to exacerbation risk
+Diazepam,Lennox-Gastaut Syndrome,No,"(routine use) Can control drop attacks acutely, but chronic use risks sedation, tolerance, and behavioral side effects. Should not be a maintenance agent"
+Midazolam,Lennox-Gastaut Syndrome,No,"For routine use, Midazolam can help with acute drop attacks, but chronic use risks heavy sedation and behavioral deterioration."
+Fludeoxyglucose (18F),Lennox-Gastaut Syndrome,No,"PET often shows widespread abnormalities, making surgical planning difficult"
+Lacosamide,Lennox-Gastaut Syndrome,No,"Not first choice; limited efficacy due to multiple seizure types, especially drop attacks"
+Vigabatrin,Lennox-Gastaut Syndrome,No,Not typically used; mixed seizure types make it a poor choice unless focal seizures dominate
+Quazepam,Lennox-Gastaut Syndrome,No,Inappropriate; much better benzodiazepines (like clobazam) are available
+Oxazepam,Lennox-Gastaut Syndrome,No,"Not appropriate; better benzodiazepines (e.g., clobazam) are available"
+Lamotrigine,Lennox-Gastaut Syndrome,Yes,FDA-approved for adjunctive treatment; helps with multiple seizure types
+Ethosuximide,Lennox-Gastaut Syndrome,No,Not appropriate due to mixed seizure types
+Mephenytoin,Lennox-Gastaut Syndrome,No,Not suitable; inappropriate for mixed seizure types typically seen in LGS
+Clobazam,Lennox-Gastaut Syndrome,Yes,FDA-approved for adjunctive treatment; particularly effective for drop attacks and multiple seizure types
+Valproic acid,Lennox-Gastaut Syndrome,Yes,Broad-spectrum effectiveness; often used as part of polytherapy
+Clonazepam,Lennox-Gastaut Syndrome,Yes,"Often used adjunctively, reduces drop attacks and atypical absences; tolerance can develop"
+Ketamine ,Lennox-Gastaut Syndrome,Yes,"Rare/experimental, may suppress tonic phases"
+Memantine  ,Lennox-Gastaut Syndrome,Yes,"Weak data; some pediatric use, cognitive/behavioral support"
+Dextromethorphan ,Lennox-Gastaut Syndrome,No,"No evidence, no benefit; may worsen seizures"
+Methylphenobarbital,Lennox-Gastaut Syndrome,No,"Not preferred, limited efficacy for drop attacks and mixed seizure types"
+Ezogabine,Lennox-Gastaut Syndrome,No,"Not indicated, mixed seizure types not well controlled with Ezogabine"
+Rufinamide,Lennox-Gastaut Syndrome,Yes,"FDA-approved, reduces frequency of tonic and atonic (drop) seizures; often used in combination with other AEDs"
+Rufinamide,Generalized Tonic Seizures (in LGS context),Yes,"Moderate efficacy, often improves seizure control as part of multi-drug regimens in severe epileptic encephalopathies"
+Valproic acid,Atonic Seizures (common in LGS),Yes,Can be beneficial; often part of treatment in Lennox-Gastaut Syndrome
+Ethosuximide,Atonic Seizures (common in LGS),No,Not effective; does not control drop attacks
+Mephenytoin,Atonic Seizures (common in LGS),No,Not effective and can worsen drop attacks
+Phensuximide,Atonic Seizures (common in LGS),No,Not effective; can potentially worsen seizure frequency or severity
+Ketamine ,Typical Status Epilepticus (early),Yes,"Not first-line, Used after benzos/barbs fail"
+Memantine  ,Typical Status Epilepticus (early),No,Not used
+Dextromethorphan ,Typical Status Epilepticus (early),No,"Not used, Ineffective or unsafe"
+Remimazolam,Typical Status Epilepticus (early),Yes,"Investigational use, fast-onset IV benzodiazepine; may terminate seizures quickly. Used in emergency settings"
+Ketamine ,Refractory Status Epilepticus (RSE),Yes,"Rescue therapy, Works after GABAergic resistance, NMDA receptor blockade excitotoxicity"
+Memantine  ,Refractory Status Epilepticus (RSE),No,Not useful
+Dextromethorphan ,Refractory Status Epilepticus (RSE),No,Not useful
+Remimazolam,Refractory Status Epilepticus (RSE),Yes,"Potential role (ICU setting), emerging evidence in cases where midazolam, lorazepam, or diazepam are ineffective"
+Ketamine ,Super-Refractory SE (SRSE),Yes,ICU infusion option
+Memantine  ,Super-Refractory SE (SRSE),No,Not useful
+Dextromethorphan ,Super-Refractory SE (SRSE),No,Not useful
+Levetiracetam,Status Epilepticus,Yes,"IV form effective, used in both early and refractory SE in ICU settings"
+Diazepam,Status Epilepticus,Yes,"(especially Convulsive SE) it is first-line emergency treatment. Rapid IV, rectal, or intranasal administration stops seizures quickly. Often paired with longer-acting agents to prevent recurrence"
+Midazolam,Status Epilepticus,Yes,"(especially convulsive SE) First-line or second-line emergency treatment. Midazolam is very effective for stopping ongoing seizures quickly. Used intranasally, intramuscularly, IV, or buccally"
+Fludeoxyglucose (18F),Status Epilepticus,No,"FDG uptake can be altered during or immediately after seizures (ictal or postictal hypermetabolism), potentially misleading localization"
+Baclofen,Status Epilepticus,No,Baclofen withdrawal can trigger status epilepticus — a life-threatening emergency
+Oxazepam,Status Epilepticus,Yes,"(as emergency backup) In theory, oxazepam could stop seizures if no other benzodiazepines are available, but it is too slow in onset to be a first-line drug for status epilepticus"
+Clonazepam,Status Epilepticus,Yes,"Emergency setting, effective in halting seizures quickly when given parenterally"
+Dextromethorphan ,Infantile epileptic encephalopathies,Yes,"Low, Experimental/adjunctive"
+Clonazepam,Infantile Spasms (West Syndrome),Yes,"Occasionally effective, sometimes used short-term when other options are limited or contraindicated"
+Vigabatrin,Infantile Spasms (West Syndrome),Yes,"FDA-approved as monotherapy for infantile spasms, particularly effective in cases associated with tuberous sclerosis complex (TSC)"
+Cannabidiol,Tuberous Sclerosis Complex (TSC)-associated epilepsy,Yes,FDA-approved for seizures associated with TSC. Reduces seizure frequency across multiple types
+Ketamine ,Rett Syndrome / Tuberous Sclerosis,Yes,"Experimental, control NMDA overactivation"
+Memantine  ,Rett Syndrome / Tuberous Sclerosis,Yes,"Behavioral & seizure adjunct, cognitive modulation"
+Dextromethorphan ,Rett Syndrome / Tuberous Sclerosis,Yes,"Limited case use, Case-dependent experimental use"
+Clonazepam,Startle-Induced Epilepsy,Yes,"Reduces reflex seizures, GABAergic effect blunts exaggerated cortical response"
+Valproic acid,Dravet Syndrome,No,"Sometimes avoided early due to concerns with worsening sodium channel dysfunctions; other drugs may be preferred initially (e.g., stiripentol, clobazam)"
+Cannabidiol,Dravet Syndrome,Yes,FDA-approved. Effective against prolonged and refractory seizures typical of Dravet syndrome
+Clobazam,Dravet Syndrome,Yes,Often used off-label; helps reduce seizure frequency
+Ketamine ,GRIN mutation (GOF) epilepsies,Yes,"Some case reports, NMDA inhibition helps GOF variants"
+Memantine  ,GRIN mutation (GOF) epilepsies,Yes,"Weak evidence, weak CNS effects"
+Dextromethorphan ,GRIN mutation (GOF) epilepsies,Yes,"Targeted therapy, NMDA receptor antagonist blocks GOF activity"
+Flunarizine,Pediatric epilepsy,No,"Limited safety data, not widely studied in pediatric epilepsy populations"
+Ethoxzolamide,Pediatric epilepsy,No,"Avoid if possible for prolonged use, risks of growth suppression and electrolyte imbalance in children"
+Oxcarbazepine,Pediatric epilepsy,Yes,Approved and commonly used for children (as young as 4 years old depending on formulation). Good tolerability profile
+Fludeoxyglucose (18F),Pediatric epilepsy,Yes,"(e.g., tuberous sclerosis, cortical dysplasias) Helps map areas of cortical dysfunction and plan surgery"
+Methsuximide,Pediatric epilepsy,Yes,"Alternative option, may be used in select cases unresponsive to first-line treatments"
+Ethoxzolamide,Psychogenic Non-Epileptic Seizures (PNES),Yes,"Off-label use, sometimes used short-term during menstrual cycles due to mild diuretic and acidifying action"
+Flunarizine,Basilar Migraine with Seizures,No,"Limited safety data, not widely studied in pediatric epilepsy populations"
+Ethoxzolamide,Catamenial Epilepsy (menstrual cycle-related),Yes,"Rare use-case, used in high-altitude epilepsy cases due to carbonic anhydrase inhibition"
+Levetiracetam,Photosensitive Epilepsy,Yes,"Some evidence, may reduce photoparoxysmal responses; off-label but promising"
+Flunarizine,Photosensitive Epilepsy,Yes,"Helpful in overlap cases, beneficial when migraine and epilepsy co-exist; suppresses cortical spreading depression"
+Oxazepam,"Acute symptomatic seizures (e.g., alcohol withdrawal)",Yes,"May help control alcohol-related withdrawal seizures, but again not first-line (others like lorazepam are better)"
+Remimazolam,Procedural/acute seizure induction prevention,No,"Not appropriate, very short half-life (? 7–10 minutes); unsuitable for long-term seizure control"
+Quazepam,Sleep-Related Epilepsies,No,"Although improving sleep can help some epilepsy syndromes, quazepam’s long half-life could lead to daytime sedation, worsening cognitive function and seizure detection"
+Diazepam,Febrile Seizures (Complex/Prolonged),Yes,Sometimes used acutely to abort prolonged febrile seizures or clusters in young children
+Midazolam,Acute Repetitive Seizure (Cluster Seizures),Yes,Effective as a rescue medication to prevent progression into status epilepticus. Often used intranasally or buccally at home or in ambulances
+Diazepam,Acute Repetitive Seizure (Cluster Seizures),Yes,"Effective as a rescue medication (rectal diazepam is commonly used at home, especially for children). Helps prevent escalation into status epilepticus"
+Fludeoxyglucose (18F),Recent Seizures,No,"(within hours before scan) Seizure activity can distort PET findings, making regions appear hypermetabolic instead of hypometabolic. Ideally, imaging should be done interictally (between seizures)"
+Remimazolam,Chronic Epilepsy,No,"(long-term management) Not recommended, not approved for outpatient seizure use; requires IV administration under supervision"
+Diazepam,Chronic Epilepsy,No,"For Chronic Daily Seizures (Maintenance Therapy), it is not recommended for daily seizure prevention. Tolerance develops quickly; effectiveness drops"
+Midazolam,Chronic Epilepsy,No,"In Chronic Daily Seizures (Maintenance Therapy), it is not appropriate for long-term daily seizure control due to risk of tolerance, dependence, and sedation"
+Quazepam,Chronic Epilepsy,No,"Any Chronic Epilepsy (Focal, Generalized) Risk: Quazepam does not protect against seizures and excess sedation could mask seizures or worsen control indirectly"
+Oxazepam,Chronic Epilepsy,No,"(e.g., focal or generalized epilepsies) Not appropriate for long-term epilepsy control — oxazepam is not effective for chronic seizure prevention"
+Flunarizine,Outpatient use,Yes,"Reported benefit, may reduce cortical excitability in visually triggered seizures"
+Fludeoxyglucose (18F),Epilepsy Surgery Candidates,Yes,Critical tool in pre-surgical planning to localize the epileptogenic zone
+Butriptyline,All Epilepsy Types,No,"TCAs like butriptyline lower seizure threshold across all epilepsy types. Use extreme caution if prescribed for depression, pain, or migraine in patients with epilepsy"
+Tramadol,All Epilepsy Types,No,"Tramadol lowers seizure threshold in all patients, especially in those with a history of epilepsy or seizures"
+KetamineCandidate,All Epilepsy Types,No,under study
+MemantineCandidate,All Epilepsy Types,No,under study
+DextromethorphanCandidate,All Epilepsy Types,No,under study

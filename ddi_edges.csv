@@ -1,0 +1,495 @@
+Drug1,Drug2,Interaction,Severity
+Ketamine,Methylphenobarbital,The risk or Severeity of CNS depression can be increased when Methylphenobarbital is combined with Ketamine,Moderate
+Ketamine,Memantine,The risk or Severeity of adverse effects can be increased when Ketamine is combined with Memantine,Moderate
+Ketamine,Dextromethorphan,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Ketamine,Moderate
+Ketamine,Ezogabine,The risk or Severeity of CNS depression can be increased when Ketamine is combined with Ezogabine,Moderate
+Ketamine,Remimazolam,The risk or Severeity of sedation can be increased when Ketamine is combined with Remimazolam,Moderate
+Ketamine,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Ketamine,Moderate
+Ketamine,Flunarizine,The risk or Severeity of CNS depression can be increased when Ketamine is combined with Flunarizine,Moderate
+Ketamine,Methsuximide,The risk or Severeity of CNS depression can be increased when Ketamine is combined with Methsuximide,Moderate
+Ketamine,Levetiracetam,The risk or Severeity of CNS depression can be increased when Levetiracetam is combined with Ketamine,Moderate
+Ketamine,Ethoxzolamide,Ethoxzolamide may increase the excretion rate of Ketamine which could result in a lower serum level and potentially a reduction in efficacy,Mild
+Ketamine,Tiagabine,The risk or Severeity of CNS depression can be increased when Tiagabine is combined with Ketamine,Moderate
+Ketamine,Clonazepam,The metabolism of Clonazepam can be increased when combined with Ketamine,Mild
+Ketamine,Methacholine,The risk or Severeity of adverse effects can be increased when Ketamine is combined with Methacholine,Moderate
+Ketamine,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Ketamine,Moderate
+Ketamine,Caffeine,Undefined,Unknown
+Ketamine,Clobazam,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Ketamine",Moderate
+Ketamine,Phensuximide,The risk or Severeity of CNS depression can be increased when Phensuximide is combined with Ketamine,Moderate
+Ketamine,Mephenytoin,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Ketamine,Moderate
+Ketamine,Ethosuximide,The risk or Severeity of CNS depression can be increased when Ethosuximide is combined with Ketamine,Moderate
+Ketamine,Lamotrigine,The risk or Severeity of CNS depression can be increased when Lamotrigine is combined with Ketamine,Moderate
+Ketamine,Oxazepam,The risk or Severeity of CNS depression can be increased when Oxazepam is combined with Ketamine,Moderate
+Ketamine,Quazepam,The risk or Severeity of CNS depression can be increased when Ketamine is combined with Quazepam,Moderate
+Ketamine,Vigabatrin,The risk or Severeity of CNS depression can be increased when Vigabatrin is combined with Ketamine,Moderate
+Ketamine,Lacosamide,The metabolism of Lacosamide can be decreased when combined with Ketamine,Mild
+Ketamine,Baclofen,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Ketamine,Moderate
+Ketamine,Fludeoxyglucose (18F),Ketamine may decrease the excretion rate of Fludeoxyglucose (18F) which could result in a higher serum level,Mild
+Ketamine,Midazolam,The risk or Severeity of sedation and CNS depression can be increased when Midazolam is combined with Ketamine,Moderate
+Ketamine,Diazepam,The risk or Severeity of CNS depression can be increased when Diazepam is combined with Ketamine,Moderate
+Ketamine,Butriptyline,The risk or Severeity of CNS depression can be increased when Ketamine is combined with Butriptyline,Moderate
+Ketamine,Phenacemide,The risk or Severeity of CNS depression can be increased when Phenacemide is combined with Ketamine,Moderate
+Ketamine,Metharbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Ketamine,Moderate
+Ketamine,Trimethadione,The risk or Severeity of CNS depression can be increased when Trimethadione is combined with Ketamine,Moderate
+Ketamine,Felbamate,The risk or Severeity of CNS depression can be increased when Felbamate is combined with Ketamine,Moderate
+Ketamine,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Ketamine,Moderate
+Ketamine,Zonisamide,The risk or Severeity of CNS depression can be increased when Zonisamide is combined with Ketamine,Moderate
+Ketamine,Carbamazepine,The metabolism of Ketamine can be increased when combined with Carbamazepine,Mild
+Ketamine,Cannabidiol,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Ketamine,Moderate
+Ketamine,Tramadol,The metabolism of Tramadol can be increased when combined with Ketamine,Mild
+Memantine,Methylphenobarbital,The metabolism of Methylphenobarbital can be decreased when combined with Memantine,Mild
+Memantine,Dextromethorphan,The risk or Severeity of adverse effects can be increased when Dextromethorphan is combined with Memantine,Moderate
+Memantine,Ezogabine,Memantine may decrease the excretion rate of Ezogabine which could result in a higher serum level,Mild
+Memantine,Remimazolam,Undefined,Unknown
+Memantine,Rufinamide,Undefined,Unknown
+Memantine,Flunarizine,The metabolism of Flunarizine can be decreased when combined with Memantine,Mild
+Memantine,Methsuximide,The metabolism of Methsuximide can be decreased when combined with Memantine,Mild
+Memantine,Levetiracetam,Undefined,Unknown
+Memantine,Ethoxzolamide,The excretion of Memantine can be decreased when combined with Ethoxzolamide,Mild
+Memantine,Tiagabine,Undefined,Unknown
+Memantine,Clonazepam,Memantine may decrease the excretion rate of Clonazepam which could result in a higher serum level,Mild
+Memantine,Methacholine,The risk or Severeity of adverse effects can be increased when Memantine is combined with Methacholine,Moderate
+Memantine,Valproic acid,The metabolism of Valproic acid can be decreased when combined with Memantine,Mild
+Memantine,Caffeine,Undefined,Unknown
+Memantine,Clobazam,The metabolism of Clobazam can be decreased when combined with Memantine,Mild
+Memantine,Phensuximide,Unfefined,Unknown
+Memantine,Mephenytoin,The metabolism of Mephenytoin can be decreased when combined with Memantine,Mild
+Memantine,Ethosuximide,Undefined,Unknown
+Memantine,Lamotrigine,The serum concentration of Memantine can be increased when it is combined with Lamotrigine,Mild
+Memantine,Oxazepam,Oxazepam may decrease the excretion rate of Memantine which could result in a higher serum level,Mild
+Memantine,Quazepam,Undefined,Unknown
+Memantine,Vigabatrin,Undefined,Unknown
+Memantine,Lacosamide,The metabolism of Lacosamide can be decreased when combined with Memantine,Mild
+Memantine,Baclofen,Baclofen may decrease the excretion rate of Memantine which could result in a higher serum level,Mild
+Memantine,Fludeoxyglucose (18F),Memantine may decrease the excretion rate of Fludeoxyglucose (18F) which could result in a higher serum level,Mild
+Memantine,Midazolam,Midazolam may decrease the excretion rate of Memantine which could result in a higher serum level,Mild
+Memantine,Diazepam,The metabolism of Diazepam can be decreased when combined with Memantine,Mild
+Memantine,Butriptyline,Undefined,Unknown
+Memantine,Phenacemide,Undefined,Unknown
+Memantine,Metharbital,The therapeutic efficacy of Metharbital can be decreased when used in combination with Memantine,Mild
+Memantine,Trimethadione,The metabolism of Trimethadione can be decreased when combined with Memantine,Mild
+Memantine,Felbamate,The risk or Severeity of adverse effects can be increased when Felbamate is combined with Memantine,Moderate
+Memantine,Oxcarbazepine,Undefined,Unknown
+Memantine,Zonisamide,The excretion of Memantine can be decreased when combined with Zonisamide,Mild
+Memantine,Carbamazepine,Memantine may decrease the excretion rate of Carbamazepine which could result in a higher serum level,Mild
+Memantine,Cannabidiol,The metabolism of Cannabidiol can be decreased when combined with Memantine,Mild
+Memantine,Tramadol,The risk or Severeity of adverse effects can be increased when Tramadol is combined with Memantine,Moderate
+Dextromethorphan,Methylphenobarbital,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Methylphenobarbital,Moderate
+Dextromethorphan,Ezogabine,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Ezogabine,Moderate
+Dextromethorphan,Remimazolam,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Remimazolam,Moderate
+Dextromethorphan,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Dextromethorphan,Moderate
+Dextromethorphan,Flunarizine,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Flunarizine,Moderate
+Dextromethorphan,Methsuximide,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Methsuximide,Moderate
+Dextromethorphan,Levetiracetam,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Levetiracetam,Moderate
+Dextromethorphan,Ethoxzolamide,Undefined,Unknown
+Dextromethorphan,Tiagabine,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Tiagabine,Moderate
+Dextromethorphan,Clonazepam,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Clonazepam,Moderate
+Dextromethorphan,Methacholine,Dextromethorphan may decrease effectiveness of Methacholine as a diagnostic agent,Mild
+Dextromethorphan,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Dextromethorphan,Moderate
+Dextromethorphan,Caffeine,Undefined,Unknown
+Dextromethorphan,Clobazam,The serum concentration of Dextromethorphan can be increased when it is combined with Clobazam,Mild
+Dextromethorphan,Phensuximide,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Phensuximide,Moderate
+Dextromethorphan,Mephenytoin,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Mephenytoin,Moderate
+Dextromethorphan,Ethosuximide,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Ethosuximide,Moderate
+Dextromethorphan,Lamotrigine,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Lamotrigine,Moderate
+Dextromethorphan,Oxazepam,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Oxazepam,Moderate
+Dextromethorphan,Quazepam,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Quazepam,Moderate
+Dextromethorphan,Vigabatrin,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Vigabatrin,Moderate
+Dextromethorphan,Lacosamide,The metabolism of Lacosamide can be decreased when combined with Dextromethorphan,Mild
+Dextromethorphan,Baclofen,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Dextromethorphan,Moderate
+Dextromethorphan,Fludeoxyglucose (18F),Undefined,Unknown
+Dextromethorphan,Midazolam,The risk or Severeity of sedation and CNS depression can be increased when Midazolam is combined with Dextromethorphan,Moderate
+Dextromethorphan,Diazepam,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Diazepam,Moderate
+Dextromethorphan,Butriptyline,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Butriptyline,Moderate
+Dextromethorphan,Phenacemide,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Phenacemide,Moderate
+Dextromethorphan,Metharbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Dextromethorphan,Moderate
+Dextromethorphan,Trimethadione,The risk or Severeity of CNS depression can be increased when Trimethadione is combined with Dextromethorphan,Moderate
+Dextromethorphan,Felbamate,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Felbamate,Moderate
+Dextromethorphan,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Oxcarbazepine,Moderate
+Dextromethorphan,Zonisamide,The risk or Severeity of CNS depression can be increased when Dextromethorphan is combined with Zonisamide,Moderate
+Dextromethorphan,Carbamazepine,The metabolism of Carbamazepine can be decreased when combined with Dextromethorphan,Mild
+Dextromethorphan,Cannabidiol,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Dextromethorphan,Moderate
+Dextromethorphan,Tramadol,The risk or Severeity of serotonin syndrome can be increased when Dextromethorphan is combined with Tramadol,Severe
+Cannabidiol,Felbamate,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Felbamate,Moderate
+Cannabidiol,Carbamazepine,Carbamazepine may increase the Change in thyroid function activities of Cannabidiol,Mild
+Cannabidiol,Clobazam,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Cannabidiol",Moderate
+Cannabidiol,Ezogabine,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Ezogabine,Moderate
+Cannabidiol,Flunarizine,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Flunarizine,Moderate
+Cannabidiol,Lacosamide,The metabolism of Lacosamide can be decreased when combined with Cannabidiol,Mild
+Cannabidiol,Lamotrigine,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Lamotrigine,Moderate
+Cannabidiol,Levetiracetam,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Levetiracetam,Moderate
+Cannabidiol,Mephenytoin,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Mephenytoin,Moderate
+Cannabidiol,Metharbital,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Metharbital,Moderate
+Cannabidiol,Methylphenobarbital,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Methylphenobarbital,Moderate
+Cannabidiol,Oxcarbazepine,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Oxcarbazepine,Moderate
+Cannabidiol,Phenacemide,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Phenacemide,Moderate
+Cannabidiol,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Cannabidiol,Moderate
+Cannabidiol,Tiagabine,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Tiagabine,Moderate
+Cannabidiol,Valproic acid,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Valproic acid,Moderate
+Cannabidiol,Vigabatrin,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Vigabatrin,Moderate
+Cannabidiol,Zonisamide,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Zonisamide,Moderate
+Cannabidiol,Clonazepam,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Clonazepam,Moderate
+Cannabidiol,Ethosuximide,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Ethosuximide,Moderate
+Cannabidiol,Trimethadione,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Trimethadione,Moderate
+Cannabidiol,Phensuximide,The risk or Severeity of adverse effects can be increased when Cannabidiol is combined with Phensuximide,Moderate
+Carbamazepine,Clobazam,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Carbamazepine",Moderate
+Carbamazepine,Ezogabine,The serum concentration of Ezogabine can be decreased when it is combined with Carbamazepine,Mild
+Carbamazepine,Felbamate,The serum concentration of Felbamate can be decreased when it is combined with Carbamazepine,Mild
+Carbamazepine,Fludeoxyglucose (18F),Fludeoxyglucose (18F) may decrease the excretion rate of Carbamazepine which could result in a higher serum level,Mild
+Carbamazepine,Flunarizine,The serum concentration of Flunarizine can be decreased when it is combined with Carbamazepine,Mild
+Carbamazepine,Lacosamide,The serum concentration of Lacosamide can be decreased when it is combined with Carbamazepine,Mild
+Carbamazepine,Lamotrigine,The metabolism of Lamotrigine can be increased when combined with Carbamazepine,Mild
+Carbamazepine,Levetiracetam,The risk or Severeity of adverse effects can be increased when Levetiracetam is combined with Carbamazepine,Moderate
+Carbamazepine,Mephenytoin,Carbamazepine may increase the Change in thyroid function activities of Mephenytoin,Mild
+Carbamazepine,Metharbital,Carbamazepine may increase the Change in thyroid function activities of Metharbital,Mild
+Carbamazepine,Methylphenobarbital,Carbamazepine may increase the Change in thyroid function activities of Methylphenobarbital,Mild
+Carbamazepine,Oxcarbazepine,The serum concentration of the active metabolites of Oxcarbazepine can be reduced when Oxcarbazepine is used in combination with Carbamazepine resulting in a loss in efficacy,Mild
+Carbamazepine,Phenacemide,Carbamazepine may increase the Change in thyroid function activities of Phenacemide,Mild
+Carbamazepine,Rufinamide,The serum concentration of Rufinamide can be decreased when it is combined with Carbamazepine,Mild
+Carbamazepine,Tiagabine,Carbamazepine may increase the Change in thyroid function activities of Tiagabine,Mild
+Carbamazepine,Valproic acid,"The serum concentration of carbamazepine-10,11­ epoxide (CBZ-E), an active metabolite of Carbamazepine, can be increased when used in combination with Valproic acid",Mild
+Carbamazepine,Vigabatrin,Carbamazepine may increase the Change in thyroid function activities of Vigabatrin,Mild
+Carbamazepine,Zonisamide,Carbamazepine may increase the Change in thyroid function activities of Zonisamide,Mild
+Clobazam,Ezogabine,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Ezogabine",Moderate
+Clobazam,Felbamate,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Felbamate",Moderate
+Clobazam,Fludeoxyglucose (18F),Clobazam may decrease the excretion rate of Fludeoxyglucose (18F) which could result in a higher serum level,Mild
+Clobazam,Flunarizine,The serum concentration of Flunarizine can be increased when it is combined with Clobazam,Mild
+Clobazam,Lacosamide,The metabolism of Lacosamide can be increased when combined with Clobazam,Mild
+Clobazam,Lamotrigine,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Lamotrigine",Moderate
+Clobazam,Levetiracetam,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Levetiracetam",Moderate
+Clobazam,Mephenytoin,The serum concentration of Mephenytoin can be increased when it is combined with Clobazam,Mild
+Clobazam,Metharbital,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Metharbital",Moderate
+Clobazam,Methylphenobarbital,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Methylphenobarbital",Moderate
+Clobazam,Oxcarbazepine,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Oxcarbazepine",Moderate
+Clobazam,Phenacemide,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Phenacemide",Moderate
+Clobazam,Rufinamide,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Rufinamide",Moderate
+Clobazam,Tiagabine,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Tiagabine",Moderate
+Clobazam,Valproic acid,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Valproic acid",Moderate
+Clobazam,Vigabatrin,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Vigabatrin",Moderate
+Clobazam,Zonisamide,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Zonisamide",Moderate
+Clobazam,Ethoxzolamide,Ethoxzolamide may increase the excretion rate of Clobazam which could result in a lower serum level and potentially a reduction in efficacy,Mild
+Clobazam,Methsuximide,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Methsuximide",Moderate
+Ezogabine,Felbamate,The risk or Severeity of CNS depression can be increased when Felbamate is combined with Ezogabine,Moderate
+Ezogabine,Fludeoxyglucose (18F),Ezogabine may decrease the excretion rate of Fludeoxyglucose (18F) which could result in a higher serum level,Mild
+Ezogabine,Flunarizine,The risk or Severeity of CNS depression can be increased when Flunarizine is combined with Ezogabine,Moderate
+Ezogabine,Lacosamide,Undefined,Unknown
+Ezogabine,Lamotrigine,The serum concentration of Lamotrigine can be decreased when it is combined with Ezogabine,Mild
+Ezogabine,Levetiracetam,The risk or Severeity of CNS depression can be increased when Levetiracetam is combined with Ezogabine,Moderate
+Ezogabine,Mephenytoin,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Ezogabine,Moderate
+Ezogabine,Metharbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Ezogabine,Moderate
+Ezogabine,Methylphenobarbital,The risk or Severeity of CNS depression can be increased when Methylphenobarbital is combined with Ezogabine,Moderate
+Ezogabine,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Ezogabine,Moderate
+Ezogabine,Phenacemide,The risk or Severeity of CNS depression can be increased when Phenacemide is combined with Ezogabine,Moderate
+Ezogabine,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Ezogabine,Moderate
+Ezogabine,Tiagabine,The risk or Severeity of CNS depression can be increased when Tiagabine is combined with Ezogabine,Moderate
+Ezogabine,Valproic acid,The risk or Severeity of QTc prolongation can be increased when Ezogabine is combined with Valproic acid,Severe
+Ezogabine,Vigabatrin,The risk or Severeity of CNS depression can be increased when Vigabatrin is combined with Ezogabine,Moderate
+Ezogabine,Zonisamide,The risk or Severeity of CNS depression can be increased when Zonisamide is combined with Ezogabine,Moderate
+Felbamate,Fludeoxyglucose (18F),Undefined,Unknown
+Felbamate,Flunarizine,The risk or Severeity of CNS depression can be increased when Felbamate is combined with Flunarizine,Moderate
+Felbamate,Lacosamide,The metabolism of Lacosamide can be decreased when combined with Felbamate,Mild
+Felbamate,Lamotrigine,The risk or Severeity of CNS depression can be increased when Lamotrigine is combined with Felbamate,Moderate
+Felbamate,Levetiracetam,The risk or Severeity of CNS depression can be increased when Felbamate is combined with Levetiracetam,Moderate
+Felbamate,Mephenytoin,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Felbamate,Moderate
+Felbamate,Metharbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Felbamate,Moderate
+Felbamate,Methylphenobarbital,"The serum concentration of Phenobarbital, an active metabolite of Methylphenobarbital, can be increased when used in combination with Felbamate",Mild
+Felbamate,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Felbamate,Moderate
+Felbamate,Phenacemide,The risk or Severeity of CNS depression can be increased when Felbamate is combined with Phenacemide,Moderate
+Felbamate,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Felbamate,Moderate
+Felbamate,Tiagabine,The risk or Severeity of CNS depression can be increased when Tiagabine is combined with Felbamate,Moderate
+Felbamate,Valproic acid,The serum concentration of Valproic acid can be increased when it is combined with Felbamate,Mild
+Felbamate,Vigabatrin,The risk or Severeity of CNS depression can be increased when Felbamate is combined with Vigabatrin,Moderate
+Felbamate,Zonisamide,The risk or Severeity of CNS depression can be increased when Zonisamide is combined with Felbamate,Moderate
+Fludeoxyglucose (18F),Flunarizine,Undefined,Unknown
+Fludeoxyglucose (18F),Lacosamide,Undefined,Unknown
+Fludeoxyglucose (18F),Lamotrigine,Lamotrigine may decrease the excretion rate of Fludeoxyglucose (18F) which could result in a higher serum level,Mild
+Fludeoxyglucose (18F),Levetiracetam,Undefined,Unknown
+Fludeoxyglucose (18F),Mephenytoin,Undefined,Unknown
+Fludeoxyglucose (18F),Metharbital,Undefined,Unknown
+Fludeoxyglucose (18F),Methylphenobarbital,Undefined,Unknown
+Fludeoxyglucose (18F),Oxcarbazepine,Undefined,Unknown
+Fludeoxyglucose (18F),Phenacemide,Undefined,Unknown
+Fludeoxyglucose (18F),Rufinamide,Undefined,Unknown
+Fludeoxyglucose (18F),Tiagabine,Undefined,Unknown
+Fludeoxyglucose (18F),Valproic acid,Undefined,Unknown
+Fludeoxyglucose (18F),Vigabatrin,Undefined,Unknown
+Fludeoxyglucose (18F),Zonisamide,Zonisamide may decrease the excretion rate of Fludeoxyglucose (18F) which could result in a higher serum level,Mild
+Flunarizine,Lacosamide,"The risk or Severeity of ventricular arrhythmias, bradycardia, and heart block can be increased when Flunarizine is combined with Lacosamide",Severe
+Flunarizine,Lamotrigine,Lamotrigine may increase the arrhythmogenic activities of Flunarizine,Severe
+Flunarizine,Levetiracetam,The risk or Severeity of CNS depression can be increased when Levetiracetam is combined with Flunarizine,Moderate
+Flunarizine,Mephenytoin,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Flunarizine,Moderate
+Flunarizine,Metharbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Flunarizine,Moderate
+Flunarizine,Methylphenobarbital,The metabolism of Flunarizine can be increased when combined with Methylphenobarbital,Mild
+Flunarizine,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Flunarizine,Moderate
+Flunarizine,Phenacemide,The risk or Severeity of CNS depression can be increased when Phenacemide is combined with Flunarizine,Moderate
+Flunarizine,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Flunarizine,Moderate
+Flunarizine,Tiagabine,The risk or Severeity of CNS depression can be increased when Tiagabine is combined with Flunarizine,Moderate
+Flunarizine,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Flunarizine,Moderate
+Flunarizine,Vigabatrin,The risk or Severeity of CNS depression can be increased when Vigabatrin is combined with Flunarizine,Moderate
+Flunarizine,Zonisamide,Zonisamide may increase the arrhythmogenic activities of Flunarizine,Severe
+Lacosamide,Lamotrigine,"The risk or Severeity of ventricular arrhythmias, bradycardia, and heart block can be increased when Lamotrigine is combined with Lacosamide",Severe
+Lacosamide,Levetiracetam,Undefined,Unknown
+Lacosamide,Mephenytoin,The metabolism of Lacosamide can be decreased when combined with Mephenytoin,Mild
+Lacosamide,Metharbital,Undefined,Unknown
+Lacosamide,Methylphenobarbital,The metabolism of Lacosamide can be increased when combined with Methylphenobarbital,Mild
+Lacosamide,Oxcarbazepine,The metabolism of Lacosamide can be increased when combined with Oxcarbazepine,Mild
+Lacosamide,Phenacemide,Undefined,Unknown
+Lacosamide,Rufinamide,The metabolism of Lacosamide can be increased when combined with Rufinamide,Mild
+Lacosamide,Tiagabine,Undefined,Unknown
+Lacosamide,Valproic acid,The metabolism of Lacosamide can be decreased when combined with Valproic acid,Mild
+Lacosamide,Vigabatrin,Undefined,Unknown
+Lacosamide,Zonisamide,"The risk or Severeity of ventricular arrhythmias, bradycardia, and heart block can be increased when Zonisamide is combined with Lacosamide",Severe
+Lamotrigine,Levetiracetam,The risk or Severeity of CNS depression can be increased when Lamotrigine is combined with Levetiracetam,Moderate
+Lamotrigine,Mephenytoin,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Lamotrigine,Moderate
+Lamotrigine,Metharbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Lamotrigine,Moderate
+Lamotrigine,Methylphenobarbital,Methylphenobarbital may increase the excretion rate of Lamotrigine which could result in a lower serum level and potentially a reduction in efficacy,Mild
+Lamotrigine,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Lamotrigine is combined with Oxcarbazepine,Moderate
+Lamotrigine,Phenacemide,The risk or Severeity of CNS depression can be increased when Lamotrigine is combined with Phenacemide,Moderate
+Lamotrigine,Rufinamide,The serum concentration of Lamotrigine can be increased when it is combined with Rufinamide,Mild
+Lamotrigine,Tiagabine,The metabolism of Tiagabine can be increased when combined with Lamotrigine,Mild
+Lamotrigine,Valproic acid,Valproic acid may decrease the excretion rate of Lamotrigine which could result in a higher serum level,Mild
+Lamotrigine,Vigabatrin,The risk or Severeity of CNS depression can be increased when Lamotrigine is combined with Vigabatrin,Moderate
+Lamotrigine,Zonisamide,Lamotrigine may increase the arrhythmogenic activities of Zonisamide,Severe
+Levetiracetam,Mephenytoin,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Levetiracetam,Moderate
+Levetiracetam,Metharbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Levetiracetam,Moderate
+Levetiracetam,Methylphenobarbital,The risk or Severeity of CNS depression can be increased when Methylphenobarbital is combined with Levetiracetam,Moderate
+Levetiracetam,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Levetiracetam,Moderate
+Levetiracetam,Phenacemide,The risk or Severeity of CNS depression can be increased when Phenacemide is combined with Levetiracetam,Moderate
+Levetiracetam,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Levetiracetam,Moderate
+Levetiracetam,Tiagabine,The risk or Severeity of CNS depression can be increased when Tiagabine is combined with Levetiracetam,Moderate
+Levetiracetam,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Levetiracetam,Moderate
+Levetiracetam,Vigabatrin,The risk or Severeity of CNS depression can be increased when Vigabatrin is combined with Levetiracetam,Moderate
+Levetiracetam,Zonisamide,The risk or Severeity of CNS depression can be increased when Zonisamide is combined with Levetiracetam,Moderate
+Mephenytoin,Metharbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Mephenytoin,Moderate
+Mephenytoin,Methylphenobarbital,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Methylphenobarbital,Moderate
+Mephenytoin,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Oxcarbazepine,Moderate
+Mephenytoin,Phenacemide,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Phenacemide,Moderate
+Mephenytoin,Rufinamide,The serum concentration of Mephenytoin can be increased when it is combined with Rufinamide,Mild
+Mephenytoin,Tiagabine,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Tiagabine,Moderate
+Mephenytoin,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Mephenytoin,Moderate
+Mephenytoin,Vigabatrin,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Vigabatrin,Moderate
+Mephenytoin,Zonisamide,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Zonisamide,Moderate
+Metharbital,Methylphenobarbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Methylphenobarbital,Moderate
+Metharbital,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Oxcarbazepine,Moderate
+Metharbital,Phenacemide,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Phenacemide,Moderate
+Metharbital,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Metharbital,Moderate
+Metharbital,Tiagabine,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Tiagabine,Moderate
+Metharbital,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Metharbital,Moderate
+Metharbital,Vigabatrin,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Vigabatrin,Moderate
+Metharbital,Zonisamide,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Zonisamide,Moderate
+Methylphenobarbital,Oxcarbazepine,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Methylphenobarbital,Moderate
+Methylphenobarbital,Phenacemide,The risk or Severeity of CNS depression can be increased when Methylphenobarbital is combined with Phenacemide,Moderate
+Methylphenobarbital,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Methylphenobarbital,Moderate
+Methylphenobarbital,Tiagabine,The risk or Severeity of CNS depression can be increased when Methylphenobarbital is combined with Tiagabine,Moderate
+Methylphenobarbital,Valproic acid,"The serum concentration of Phenobarbital, an active metabolite of Methylphenobarbital, can be increased when used in combination with Valproic acid",Mild
+Methylphenobarbital,Vigabatrin,The risk or Severeity of CNS depression can be increased when Methylphenobarbital is combined with Vigabatrin,Moderate
+Methylphenobarbital,Zonisamide,The metabolism of Zonisamide can be increased when combined with Methylphenobarbital,Mild
+Oxcarbazepine,Phenacemide,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Phenacemide,Moderate
+Oxcarbazepine,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Oxcarbazepine,Moderate
+Oxcarbazepine,Tiagabine,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Tiagabine,Moderate
+Oxcarbazepine,Valproic acid,The serum concentration of the active metabolites of Oxcarbazepine can be decreased when Oxcarbazepine is used in combination with Valproic acid,Mild
+Oxcarbazepine,Vigabatrin,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Vigabatrin,Moderate
+Oxcarbazepine,Zonisamide,The risk or Severeity of CNS depression can be increased when Oxcarbazepine is combined with Zonisamide,Moderate
+Phenacemide,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Phenacemide,Moderate
+Phenacemide,Tiagabine,The risk or Severeity of CNS depression can be increased when Tiagabine is combined with Phenacemide,Moderate
+Phenacemide,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Phenacemide,Moderate
+Phenacemide,Vigabatrin,The risk or Severeity of CNS depression can be increased when Vigabatrin is combined with Phenacemide,Moderate
+Phenacemide,Zonisamide,The risk or Severeity of CNS depression can be increased when Zonisamide is combined with Phenacemide,Moderate
+Rufinamide,Tiagabine,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Tiagabine,Moderate
+Rufinamide,Valproic acid,The serum concentration of Rufinamide can be increased when it is combined with Valproic acid,Mild
+Rufinamide,Vigabatrin,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Vigabatrin,Moderate
+Rufinamide,Zonisamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Zonisamide,Moderate
+Tiagabine,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Tiagabine,Moderate
+Tiagabine,Vigabatrin,The risk or Severeity of CNS depression can be increased when Tiagabine is combined with Vigabatrin,Moderate
+Tiagabine,Zonisamide,The risk or Severeity of CNS depression can be increased when Tiagabine is combined with Zonisamide,Moderate
+Valproic acid,Vigabatrin,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Vigabatrin,Moderate
+Valproic acid,Zonisamide,The risk or Severeity of QTc prolongation can be increased when Zonisamide is combined with Valproic acid,Severe
+Vigabatrin,Zonisamide,The risk or Severeity of CNS depression can be increased when Zonisamide is combined with Vigabatrin,Moderate
+Ethoxzolamide,Felbamate,Undefined,Unknown
+Ethoxzolamide,Flunarizine,Undefined,Unknown
+Ethoxzolamide,Midazolam,Ethoxzolamide may increase the excretion rate of Midazolam which could result in a lower serum level and potentially a reduction in efficacy,Mild
+Ethoxzolamide,Oxazepam,Ethoxzolamide may increase the excretion rate of Oxazepam which could result in a lower serum level and potentially a reduction in efficacy,Mild
+Ethoxzolamide,Lacosamide,Undefined,Unknown
+Ethoxzolamide,Lamotrigine,Ethoxzolamide may increase the excretion rate of Lamotrigine which could result in a lower serum level and potentially a reduction in efficacy,Mild
+Ethoxzolamide,Levetiracetam,Undefined,Unknown
+Ethoxzolamide,Mephenytoin,Undefined,Unknown
+Ethoxzolamide,Metharbital,Undefined,Unknown
+Ethoxzolamide,Methsuximide,Undefined,Unknown
+Ethoxzolamide,Methylphenobarbital,Undefined,Unknown
+Ethoxzolamide,Rufinamide,Undefined,Unknown
+Ethoxzolamide,Valproic acid,Undefined,Unknown
+Ethoxzolamide,Zonisamide,The risk or Severeity of adverse effects can be increased when Ethoxzolamide is combined with Zonisamide,Moderate
+Methsuximide,Felbamate,The risk or Severeity of CNS depression can be increased when Felbamate is combined with Methsuximide,Moderate
+Methsuximide,Lacosamide,"The risk or Severeity of ventricular arrhythmias, bradycardia, and heart block can be increased when Methsuximide is combined with Lacosamide",Severe
+Methsuximide,Lamotrigine,Lamotrigine may increase the arrhythmogenic activities of Methsuximide,Severe
+Methsuximide,Levetiracetam,The risk or Severeity of CNS depression can be increased when Levetiracetam is combined with Methsuximide,Moderate
+Methsuximide,Mephenytoin,The risk or Severeity of CNS depression can be increased when Mephenytoin is combined with Methsuximide,Moderate
+Methsuximide,Metharbital,The risk or Severeity of CNS depression can be increased when Metharbital is combined with Methsuximide,Moderate
+Methsuximide,Methylphenobarbital,The metabolism of Methsuximide can be increased when combined with Methylphenobarbital,Mild
+Methsuximide,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Methsuximide,Moderate
+Methsuximide,Valproic acid,The risk or Severeity of QTc prolongation can be increased when Methsuximide is combined with Valproic acid,Severe
+Methsuximide,Zonisamide,Zonisamide may increase the arrhythmogenic activities of Methsuximide,Severe
+Clonazepam,Ethosuximide,The risk or Severeity of CNS depression can be increased when Ethosuximide is combined with Clonazepam,Moderate
+Clonazepam,Ethoxzolamide,Ethoxzolamide may increase the excretion rate of Clonazepam which could result in a lower serum level and potentially a reduction in efficacy,Mild
+Clonazepam,Felbamate,The metabolism of Clonazepam can be increased when combined with Felbamate,Mild
+Clonazepam,Lamotrigine,The risk or Severeity of CNS depression can be increased when Lamotrigine is combined with Clonazepam,Moderate
+Clonazepam,Methsuximide,The risk or Severeity of CNS depression can be increased when Clonazepam is combined with Methsuximide,Moderate
+Clonazepam,Phensuximide,The risk or Severeity of CNS depression can be increased when Phensuximide is combined with Clonazepam,Moderate
+Clonazepam,Rufinamide,The metabolism of Clonazepam can be increased when combined with Rufinamide,Mild
+Clonazepam,Trimethadione,The risk or Severeity of CNS depression can be increased when Trimethadione is combined with Clonazepam,Moderate
+Clonazepam,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Clonazepam,Moderate
+Ethosuximide,Ethoxzolamide,Undefined,Unknown
+Ethosuximide,Felbamate,The risk or Severeity of CNS depression can be increased when Ethosuximide is combined with Felbamate,Moderate
+Ethosuximide,Lamotrigine,Lamotrigine may increase the arrhythmogenic activities of Ethosuximide,Severe
+Ethosuximide,Methsuximide,Ethosuximide may increase the arrhythmogenic activities of Methsuximide,Severe
+Ethosuximide,Phensuximide,The risk or Severeity of CNS depression can be increased when Ethosuximide is combined with Phensuximide,Moderate
+Ethosuximide,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Ethosuximide,Moderate
+Ethosuximide,Trimethadione,Trimethadione may increase the arrhythmogenic activities of Ethosuximide,Severe
+Ethosuximide,Valproic acid,The serum concentration of Valproic acid can be decreased when it is combined with Ethosuximide,Mild
+Trimethadione,Ethoxzolamide,Undefined,Unknown
+Trimethadione,Felbamate,The risk or Severeity of CNS depression can be increased when Trimethadione is combined with Felbamate,Moderate
+Trimethadione,Lamotrigine,Trimethadione may increase the arrhythmogenic activities of Lamotrigine,Severe
+Trimethadione,Methsuximide,Trimethadione may increase the arrhythmogenic activities of Methsuximide,Severe
+Trimethadione,Phensuximide,The risk or Severeity of CNS depression can be increased when Trimethadione is combined with Phensuximide,Moderate
+Trimethadione,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Trimethadione,Moderate
+Trimethadione,Valproic acid,The risk or Severeity of QTc prolongation can be increased when Trimethadione is combined with Valproic acid,Severe
+Phensuximide,Ethoxzolamide,Undefined,Unknown
+Phensuximide,Felbamate,The risk or Severeity of CNS depression can be increased when Phensuximide is combined with Felbamate,Moderate
+Phensuximide,Lamotrigine,The risk or Severeity of CNS depression can be increased when Lamotrigine is combined with Phensuximide,Moderate
+Phensuximide,Methsuximide,The risk or Severeity of CNS depression can be increased when Phensuximide is combined with Methsuximide,Moderate
+Phensuximide,Rufinamide,The risk or Severeity of adverse effects can be increased when Rufinamide is combined with Phensuximide,Moderate
+Phensuximide,Valproic acid,The risk or Severeity of CNS depression can be increased when Valproic acid is combined with Phensuximide,Moderate
+Remimazolam,Clobazam,"The risk or Severeity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Remimazolam",Moderate
+Remimazolam,Clonazepam,The risk or Severeity of sedation can be increased when Clonazepam is combined with Remimazolam,Moderate
+Remimazolam,Lamotrigine,The risk or Severeity of CNS depression can be increased when Lamotrigine is combined with Remimazolam,Moderate
+Remimazolam,Levetiracetam,The risk or Severeity of sedation can be increased when Levetiracetam is combined with Remimazolam,Moderate
+Remimazolam,Valproic acid,The risk or Severeity of sedation can be increased when Valproic acid is combined with Remimazolam,Moderate
+Remimazolam,Zonisamide,The risk or Severeity of CNS depression can be increased when Zonisamide is combined with Remimazolam,Moderate
+Diazepam,Clonazepam,The risk or Severeity of CNS depression can be increased when Diazepam is combined with Clonazepam,Moderate
+Diazepam,Levetiracetam,The risk or Severeity of CNS depression can be increased when Diazepam is combined with Levetiracetam,Moderate
+Diazepam,Midazolam,The serum concentration of Midazolam can be increased when it is combined with Diazepam,Mild
+Diazepam,Oxazepam,The risk or Severeity of CNS depression can be increased when Diazepam is combined with Oxazepam,Moderate
+Diazepam,Remimazolam,The risk or Severeity of sedation can be increased when Diazepam is combined with Remimazolam,Moderate
+Diazepam,Ethoxzolamide,Ethoxzolamide may increase the excretion rate of Diazepam which could result in a lower serum level and potentially a reduction in efficacy,Mild
+Diazepam,Flunarizine,The risk or Severeity of CNS depression can be increased when Diazepam is combined with Flunarizine,Moderate
+Midazolam,Clonazepam,The risk or Severeity of sedation and CNS depression can be increased when Midazolam is combined with Clonazepam,Moderate
+Midazolam,Levetiracetam,The risk or Severeity of sedation and CNS depression can be increased when Midazolam is combined with Levetiracetam,Moderate
+Midazolam,Oxazepam,The risk or Severeity of sedation and CNS depression can be increased when Midazolam is combined with Oxazepam,Moderate
+Midazolam,Remimazolam,The risk or Severeity of sedation can be increased when Midazolam is combined with Remimazolam,Moderate
+Oxazepam,Clonazepam,The risk or Severeity of CNS depression can be increased when Oxazepam is combined with Clonazepam,Moderate
+Oxazepam,Levetiracetam,The risk or Severeity of CNS depression can be increased when Oxazepam is combined with Levetiracetam,Moderate
+Oxazepam,Remimazolam,The risk or Severeity of CNS depression can be increased when Oxazepam is combined with Remimazolam,Moderate
+KetamineCandidate,Methylphenobarbital, High likelihood of additive CNS depression (Severee but predictable/manageable).   Moderatecardiovascular risk.   No overwhelming evidence of life-threatening metabolic interaction but enough concern to require clinical monitoring.,Moderate
+KetamineCandidate,Memantine," High Risk — Based on adverse effect predictions (e.g., hypotension, arrhythmia), and strong correlations and predicted mechanisms.  Pharmacodynamic additive effects (dopaminergic, CNS depressant).",Severe
+KetamineCandidate,DextromethorphanCandidate," Minor risk of CNS-related additive effects and low CYP-mediated interference.  However, caution is advised if both drugs have central nervous system effects (e.g., sedation, serotonin signaling)",Mild
+KetamineCandidate,MemantineCandidate," This drug combination poses a high risk of adverse cardiovascular and CNS effects.  Interaction is driven by both pharmacodynamic synergy and CYP inhibition (especially CYP2C9, 2C19, and 3A4).  Caution or avoidance is advised, especially in patients with cardiovascular or CNS vulnerabilities.",Severe
+KetamineCandidate,Dextromethorphan, CYP-mediated metabolic inhibition.  Significant pharmacodynamic interaction (CNS depression).  Elevated risk of cardiovascular adverse effects. ,Moderate
+KetamineCandidate,Ezogabine," Pharmacodynamic additive effects, primarily CNS depression.  hypotension, and QT prolongation.  clinical caution advised, especially in patients with CNS or cardiovascular comorbidities. ",Moderate
+KetamineCandidate,Remimazolam,"pharmacodynamic CNS depression and CYP-mediated metabolic interaction, leading to a high risk of cardiovascular and neurological adverse effects. Close monitoring or alternative therapy is recommended.",Severe
+KetamineCandidate,Rufinamide,"This interaction is Mildin nature with limited clinical significance. Although there are potential CNS and enzyme interaction mechanisms, the overall Severeity and risk are low, and no major adverse outcomes are predicted.",Mild
+KetamineCandidate,Flunarizine,"The pharmacodynamic mechanisms (like CNS depression) are predicted, the overall risk of significant adverse effects is low, with limited CYP involvement and no major predicted toxicities.",Mild
+KetamineCandidate,Methsuximide," Strong pharmacodynamic mechanisms (especially CNS depression).  CYP-mediated competitive metabolism (notably CYP2D6, CYP2C9, and CYP3A4).  However, the risk of clinical manifestation appears Moderateto low, and cardiovascular adverse effects are unlikely based on low Pa values.",Severe
+KetamineCandidate,Levetiracetam," This DDI is Moderatein mechanistic terms but with a low to Mildrisk of actual clinical harm.  Monitor for CNS depression or enhanced sedative effects, particularly in sensitive patients.  No immediate contraindication, but dose adjustment or increased monitoring may be prudent depending on the clinical setting.",Mild
+KetamineCandidate,Ethoxzolamide, Strong pharmacodynamic additive and CNS depressive effects.  High-risk classification (Class 4–5).   Significant adverse cardiovascular risk predictions. ,Moderate
+KetamineCandidate,Tiagabine,"CNS additive effects being the primary mechanism. While there are some cardiovascular risks, the overall interaction is not Severee or highly disruptive, but clinical awareness is warranted, especially for CNS-related adverse effects.",Mild
+KetamineCandidate,Clonazepam,"The dominant mechanism is additive CNS depression, supported by high-risk cardiovascular effects (hypotension, QT prolongation, arrhythmia). This interaction requires clinical caution and potential avoidance, especially in vulnerable patients.",Severe
+KetamineCandidate,Methacholine," Strong pharmacodynamic and absorption-altering mechanisms.  Overlapping CYP metabolism (notably CYP2D6, CYP1A2, CYP2C9).  Elevated risk for cardiovascular and CNS-related adverse effects. ",Severe
+KetamineCandidate,Valproic acid," CNS-acting compounds: Analgesics, anesthetics, and serotonergic agents.  Membrane activity & lipoprotein effects also predicted.  These properties enhance risk for CNS depression, hemodynamic effects, and serotonergic antagonism.",Moderate
+KetamineCandidate,Caffeine," Strong inhibition of CYP2D6, CYP2C9, CYP2C19.  Altered absorption, PD additive effects, decreased metabolism.  Bradycardia, QT prolongation, arrhythmia, BP changes.  Cardiovascular and nervous system activities. ",Moderate
+KetamineCandidate,Clobazam," mild/ModerateCYP2C9 inhibition & CYP2C19 induction.  CNS depression & PD additive effects dominate.  Moderaterisk for QT prolongation, bradycardia, arrhythmia.  Nervous system activity ? suggests CNS involvement.  MildDDI with Moderatepharmacodynamic CNS implications. Monitor in sensitive populations.",Mild
+KetamineCandidate,Phensuximide," No major or Moderaterisks predicted (all negative scores).  Mildto Moderateinhibition (not clinically alarming).  Pharmacodynamic, especially CNS depression.  Mostly low to Moderateprobabilities; no high-risk alerts.  Overlap in CNS-related activities (e.g. analgesic, anesthetic). ",Mild
+KetamineCandidate,Mephenytoin," CNS-related additive effects (e.g. sedation) are the primary concern.  Monitor in vulnerable populations (e.g. elderly, those with cardiac comorbidities).  Avoid dose stacking of CNS depressants or antiepileptics.",Moderate
+KetamineCandidate,Ethosuximide," No major pharmacodynamic or metabolic concerns.  Hypertension may be worth monitoring, especially in at-risk patients.  Otherwise, the interaction is unlikely to be clinically significant.",Mild
+KetamineCandidate,Lamotrigine," Borderline Minor–Moderate, but clinically Moderate.  Strong CNS depression + UGT enzyme interaction.  QT prolongation, hypotension, possible antagonism of AEDs. ",Moderate
+KetamineCandidate,Oxazepam," Major slightly predicted, but consistent with moderate.  CNS depression + PD effects + UGT induction.  QT prolongation, arrhythmia, hypotension. ",Moderate
+KetamineCandidate,Quazepam," Significant CYP450 inhibition (CYP2C9, CYP1A2), additive CNS effects, adverse cardiovascular effects (bradycardia, hypotension), mechanistic insights (PD additive effects).  Monitor patient closely for CNS and cardiovascular side effects. Dose adjustments may be necessary. Avoid coadministration if safer alternatives exist. ",Moderate
+KetamineCandidate,Vigabatrin," Strong inhibition of CYP3A4 and CYP2D6 ? reduced drug clearance.  High-risk cardiovascular effects (QT prolongation, arrhythmias).  Strong PD interaction mechanisms: CNS depression + cardiovascular compromise.   Co-administration of these drugs should be avoided or require very close monitoring, ECG monitoring, dose adjustments, and consideration of safer alternatives.",Severe
+KetamineCandidate,Lacosamide," Mildinhibition (CYP3A4, CYP2D6).  Only arrhythmia risk elevated.  Co-administration is generally safe, but monitoring may be needed in patients with pre-existing cardiovascular conditions or CNS sensitivity. Adjustments are usually not required, but remain cautious in polypharmacy contexts.",Mild
+KetamineCandidate,Baclofen,"This DDI should be considered clinically significant and potentially dangerous. Co-administration may require:  Avoidance, if alternatives exist.  Close monitoring, including ECG and blood pressure.  Dose adjustments, especially in patients with cardiac or CNS sensitivity. ",Severe
+KetamineCandidate,Fludeoxyglucose (18F)," Adverse Effects: QT prolongation, tachycardia, hypertension; High-risk cardiac events.  Mechanisms: Additive PD, CNS, metabolic disruption; Complex & serious interactions.  Avoid co-administration if safer alternatives exist.  If used together, implement:oClose ECG monitoring (QT). oCardiac and electrolyte panel checks. oDose adjustment and patient education. ",Severe
+KetamineCandidate,Midazolam," Adverse Effects: High risk for hypotension (0.924), arrhythmia (0.875); Serious cardiovascular risk.  Mechanism: Additive CNS depression, PD effects; Moderateclassification confirmed.  Avoid combining if CNS or cardiac sensitivity is present (e.g. elderly, heart conditions).  Monitor blood pressure, ECG, and mental status if co-administration is necessary.  Adjust dosages or choose alternative agents with non-overlapping pharmacodynamic profiles.",Moderate
+KetamineCandidate,Diazepam," Interaction is pharmacodynamically driven, with additive CNS and cardiovascular effects being the dominant risks.  The pharmacokinetic impact is moderate, mainly due to CYP2C9 inhibition.  Avoid combining if the patient has pre-existing cardiac issues, CNS depression, or electrolyte imbalances.  Monitor ECG, blood pressure, and mental status during co-administration.  Dose adjustment or alternative therapy is recommended in at-risk populations.",Moderate
+KetamineCandidate,Butriptyline," Primary mechanism: Pharmacodynamic (CNS & cardiovascular depression).  Pharmacokinetic contribution: Moderate, via CYP2C9 inhibition.  Clinical risk: Most consistent with a Mildto Moderateinteraction.  Monitor for sedation, blood pressure changes, and cardiac rhythm, especially in sensitive populations (e.g., elderly or cardiac-compromised).  No contraindication, but dose adjustments or clinical monitoring may be prudent depending on the specific drugs involved.",Mild
+KetamineCandidate,Phenacemide," Adverse Effects: QT prolongation, hypotension (Pi ~0.55).  Mechanism of Interaction: Additive CNS + PD effects.  Primary Risk: CNS depression and additive pharmacodynamic effects.  Monitoring: Watch for hypotension, QT prolongation, and sedative effects.  No immediate contraindications, but caution advised in elderly, cardiac-compromised, or polypharmacy patients. ",Moderate
+KetamineCandidate,Metharbital," Adverse Effects: Bradycardia, arrhythmia, QT prolongation (Pi > 0.6).  Mechanisms: CNS depression + altered absorption + enzyme induction.  Monitor cardiovascular function (QT interval, HR).  Watch for sedation/CNS depression, especially if both drugs are CNS-active.  Consider dose adjustments or alternative agents in polypharmacy or high-risk patients. ",Moderate
+KetamineCandidate,Trimethadione," Adverse Effects:Bradycardia, QT prolongation, hypotension (Pi > 0.6).  Mechanisms: CNS depression, PD effects, antiepileptic antagonism.  Monitor for CNS depression and cardiovascular effects.  Use caution if either drug has narrow therapeutic index.  Consider dose adjustments or avoidance in high-risk patients (e.g., elderly, polypharmacy). ",Moderate
+KetamineCandidate,Felbamate," Adverse Effects:Hypotension, bradycardia, arrhythmia (Pi > 0.5).  Mechanisms:Additive CNS depression, PD effects, high Pa & low Pi.  Avoid co-administration unless clearly justified.  If use is necessary, implement close monitoring for: oCNS depression. oCardiovascular instability (e.g., bradycardia, hypotension).  Consider alternative agents or dose adjustments.",Severe
+KetamineCandidate,Oxcarbazepine," High probability of Severee adverse effects, particularly: oCNS depression. oCardiovascular instability (arrhythmia, hypotension, QT prolongation).  Likely pharmacodynamic interaction dominates (CNS + cardiac risks).  Avoid co-prescription or use extreme caution with:oClose ECG monitoring. oDose adjustments or alternative agents.  Adverse Effects: Multiple Pi > 0.6 (Arrhythmia, Bradycardia, Hypotension).  Mechanisms: CNS depression, PD effects, serotonergic antagonism. ",Severe
+KetamineCandidate,Zonisamide," Adverse Effect Risks: Severeal ModeratePi values (~0.5–0.57).  Mechanisms: Strong CNS depression, PD interactions.  CNS depressive effects are a key concern — likely enhanced sedation or respiratory risk.  Cardiovascular monitoring recommended due to Moderatesignals for hypo/hypertension and tachycardia.  Risk of interaction is not trivial but not the most extreme either.  Consider dose adjustment, enhanced monitoring, or alternative combinations depending on clinical context.",Moderate
+KetamineCandidate,Carbamazepine," Adverse Effects: QT prolongation, arrhythmia, hypotension > 0.75.  Mechanistic: Additive CNS depression, PD interaction, serotonergic antagonism.  Despite low general risk prediction, the specific mechanistic profile and class Severeity prediction indicate a clinically serious DDI.  Likely outcomes: cardiovascular toxicity, QT interval prolongation, hypotension, and CNS depression.  Close monitoring, dose adjustment, or alternative therapy should be strongly considered.",Severe
+KetamineCandidate,Cannabidiol," Adverse Effects: QT prolongation, hypotension, arrhythmia.  Mechanisms: (Pa > 0.9) CNS depression, PD effects.  Monitor for cardiovascular side effects, especially QT prolongation and hypotension.  Be cautious of CNS depression and PD additive effects, particularly if co-administered drugs have CNS activity.  Consider dose adjustments or monitoring liver function if hepatotoxic potential is clinically relevant.",Moderate
+KetamineCandidate,Tramadol," Adverse Effects: Hypotension, QT prolongation, arrhythmia risks.  Mechanisms: Pharmacodynamic effects, CNS depression.  Monitor for cardiovascular effects (hypotension, QT prolongation).  Caution if co-administered drugs are CNS depressants or require CYP2C9/3A4 metabolism.  Dose adjustment or close monitoring may be warranted depending on patient profile and comedications.",Moderate
+MemantineCandidate,Methylphenobarbital," CYP enzyme overlap (esp. CYP2C19, 2C9, 2D6).  Cardiovascular adverse effects predicted.  Multiple pharmacokinetic and pharmacodynamic mechanisms involved. ",Severe
+MemantineCandidate,Dextromethorphan," Adverse Effects: High Pi values for CV effects.  Mechanisms: Multiple (dopaminergic, renal, PD). ",Moderate
+MemantineCandidate,DextromethorphanCandidate," Adverse Effects: High Pi for CV (0.95–0.99).  Mechanism Predictions: Dopaminergic, excretion, anticholinergic.  Despite strong CYP involvement and potential CV effects, the DDI is most consistent with a Moderateinteraction risk, not a Severee one. Monitoring and dose adjustments may be warranted depending on clinical context (e.g., narrow therapeutic index drugs, elderly, renal function).",Moderate
+MemantineCandidate,Ezogabine," Adverse Effects: High Pi (0.99–0.96) for CV issues.  Mechanistic Evidence: PD/renal/additive effects, mostly moderate.  This interaction should be treated as moderate, with potential to escalate depending on patient-specific factors (age, comorbidities, dosing). Consider monitoring cardiovascular status, dose adjustments, or alternative drugs if feasible.",Moderate
+MemantineCandidate,Remimazolam," Adverse Effects: Very high risk of CV issues (arrhythmia, hypo).  Mechanistic rediction: PD additive effects (dopaminergic, anticholinergic).   Monitor cardiac function closely (ECG, BP).   Avoid co-administration in high-risk patients (e.g., elderly, cardiac disorders).   Consider dose adjustment or therapeutic alternatives.  Monitor for CNS and cardiovascular side effects.",Moderate
+MemantineCandidate,Rufinamide," CYP Interactions: Strong with CYP2C9, 2C8, 2C19.  Adverse Effects: CV effects: hypotension, arrhythmia.  Avoid co-administration, especially in cardiovascular or elderly patients.  Monitor ECG and blood pressure closely if co-use is unavoidable.  Evaluate alternative drugs that do not overlap in CYP pathways or dopaminergic activity.  Consider adjusting dosage and renal/hepatic function monitoring.",Severe
+MemantineCandidate,Flunarizine," Mechanisms: Strong PD effects (dopaminergic, anticholinergic).  Adverse Effects: High Pi for hypotension, arrhythmia, tachycardia.  Monitor blood pressure and cardiac rhythm, especially in elderly or cardiac patients.  Be cautious with CNS effects due to anticholinergic and dopaminergic additive actions.  Consider dose adjustment or spacing if clinical symptoms emerge.  Educate patient on possible signs: dizziness, palpitations, cognitive changes. ",Moderate
+MemantineCandidate,Methsuximide," Adverse Effects: High probability of hypotension.  Mechanisms: Mild-to-ModeratePD effects (dopaminergic/anticholinergic).  Monitor for hypotension and dizziness, especially in elderly or cardiovascular patients.  Be cautious in polypharmacy settings or when combining with other CNS-active drugs.  Likely safe with routine monitoring – no need for dose change unless symptoms appear.",Mild
+MemantineCandidate,Levetiracetam," Adverse Effects: High probability of hypotension, needs clinical attention.  Mechanistic Insight: Additive dopaminergic + renal clearance effects.  Monitor cardiovascular status, especially blood pressure.  Use caution in elderly or cardiac patients.  Avoid combination with other CNS depressants if possible.  No dose adjustment appears necessary unless symptoms occur.",Mild
+MemantineCandidate,Ethoxzolamide," Adverse Effects: Highly likely, especially hypotension, arrhythmia.  Mechanisms: Significant pharmacodynamic + renal excretion impact.  Avoid concurrent use if possible.  Closely monitor blood pressure, ECG (QT interval), and cardiac rhythm.  Monitor renal function, especially if other nephrotoxic drugs are present.  Use with extreme caution in elderly or cardiac-compromised patients.",Severe
+MemantineCandidate,Tiagabine," Adverse Effects: Cardiovascular events likely (e.g., hypotension).  Mechanisms:Additive dopaminergic and anticholinergic effects.  Use with caution, especially in patients with cardiovascular vulnerabilities.  Monitor blood pressure, heart rate, and mental status.  Consider dose adjustments or spacing administration to reduce overlap.  Educate patients about signs of dizziness, fatigue, or cardiac symptoms.",Moderate
+MemantineCandidate,Clonazepam," Mechanisms: Additive CNS effects, minor PD changes.  Adverse Effects: Possible hypotension or tachycardia, but not Severee.  Interaction likely to be mild, not requiring discontinuation.  Monitoring advised for blood pressure and cardiac rhythm, especially in vulnerable populations.  Can likely be co-administered with caution and patient education.",Mild
+MemantineCandidate,Methacholine," Strong CYP450 inhibition (especially CYP2D6, CYP2C19).  High-risk DDI class (Classes 4 and 5).  High predicted adverse effects (notably cardiovascular).  Multiple mechanisms of interaction (PK & PD). ",Severe
+MemantineCandidate,Valproic acid," Strong CYP2D6 inhibition.  Risk classification leaning toward Class 3 (moderate).  High cardiotoxic Pi values.  Multiple PK/PD mechanisms.  Recommendation: Clinical monitoring is advised, especially if co-administered drugs rely on CYP2D6 metabolism or have cardiovascular liabilities. Consider alternatives or dose adjustments to mitigate interaction risks.",Moderate
+MemantineCandidate,Caffeine," Strong inhibition of key CYP enzymes.  Class 3 and Class 5 Severeity predictions.  High probability of adverse cardiovascular effects.  Clear pharmacokinetic and pharmacodynamic mechanisms.  Clinical Recommendation: This DDI poses a high risk of adverse effects, especially involving metabolic interference and cardiotoxicity. Co-administration should be avoided or strictly monitored with dose adjustments or safer alternatives considered.",Severe
+MemantineCandidate,Clobazam," Risk Prediction: Major interaction indicated.  Mechanisms: Strong PD and CNS interactions.  While Class 3 (moderate) is dominant, the major risk prediction and multiple high-impact adverse effects (especially cardiovascular and CNS) push the classification toward the upper boundary of moderate, bordering on Severee.  Clinical Recommendation: This DDI requires cautious use, active monitoring, and possible dose adjustment. Consider alternatives or avoid co-administration in high-risk populations (e.g., cardiac or elderly patients). ",Moderate
+MemantineCandidate,Phensuximide," Mechanisms Involved: Primarily Pharmacodynamic + CYP450 inhibition.  Adverse Outcomes Likely: Cardiovascular effects (QT prolongation, hypotension, arrhythmia).  Recommendation: Co-administration should be avoided or closely monitored. Consider alternative medications or dose adjustments based on CYP metabolism.",Severe
+MemantineCandidate,Mephenytoin," CYP450 Impact: Strong (CYP2C19, 2C9).  Mechanisms: Additive PD effects + CYP induction.  Adverse Effects: Cardiovascular (Hypotension, Arrhythmia, QT prolongation). ",Moderate
+MemantineCandidate,Ethosuximide," Severeity: Moderateto Major (based on bar graph and mechanistic modeling).  Mechanisms: Additive dopaminergic and cardiovascular effects, plus P450 metabolic disruption.  Risks: Hypotension, QT prolongation, bradycardia. ",Moderate
+MemantineCandidate,Lamotrigine," Mechanisms: Additive effects, excretion competition, transporter interaction.  CYP450 Involvement Significant: CYP2C9, 2C8, 2C19, 1A2.  Adverse Effect Risk: Cardiovascular (arrhythmia, BP changes, QT prolongation). ",Severe
+MemantineCandidate,Oxazepam," CYP Involvement: CYP2C9, CYP2C8, CYP2D6.  Mechanisms: Additive PD effects, renal effects.  Adverse Effects: Hypotension, arrhythmia, QT issues. ",Moderate
+MemantineCandidate,Quazepam," CYP Involvement: CYP2C9, CYP2C8, CYP1A2, CYP2D6.  Mechanisms: Dopaminergic, anticholinergic, renal.  Adverse Effects: Hypotension, tachycardia, arrhythmia. ",Moderate
+MemantineCandidate,Vigabatrin," CYP Enzyme Involvement: Strongest at CYP2C19, CYP2D6, CYP2C9.  Main Mechanisms: Additive PD effects, renal interaction.  Predicted Adverse Effects: Hypotension, arrhythmia, QT prolongation. ",Moderate
+MemantineCandidate,Lacosamide," Key CYP Enzymes: CYP2C9, CYP2C8, CYP1A2, CYP3A4.  Mechanisms: Additive PD effects, renal interference.  Main Adverse Effects: Hypotension, arrhythmia, QT issues. ",Moderate
+MemantineCandidate,Baclofen," CYP Involvement: CYP2D6, CYP2C9, CYP2C19 (moderate).  Key Mechanisms: Additive PD effects + renal interactions.  Adverse Effects Risk: Hypotension, arrhythmia, QT issues. ",Moderate
+MemantineCandidate,Fludeoxyglucose (18F)," Key Risks: Cardiovascular (QT prolongation, hypotension, arrhythmia), CNS effects, CYP inhibition, renal excretion interference.  Mechanisms: CYP3A4/2C9 inhibition, renal secretion block, seizure threshold lowering. ",Moderate
+MemantineCandidate,Midazolam," Key Risks: Hypotension, arrhythmia, QT prolongation, dopaminergic/anticholinergic overload.  Mechanism: Pharmacodynamic additive effects + CYP inhibition (2C9, 2D6, 1A2).  Implication: Monitor cardiac status, CNS symptoms, and plasma concentrations of affected drugs. ",Moderate
+MemantineCandidate,Diazepam," Key Risks: Hypotension, arrhythmia, QT prolongation, CNS burden.  Mechanism: Pharmacodynamic additive effects + CYP inhibition (CYP2C9, 2D6, 1A2) + impaired renal clearance.  Clinical Note: Monitor cardiovascular status and CNS side effects; dose adjust co-administered CYP-metabolized drugs if needed. ",Moderate
+MemantineCandidate,Butriptyline," Key Risks: Hypotension, arrhythmia, reduced clearance (CYP2C9, 3A4, etc.), additive CNS effects.  Mechanisms: Dopaminergic and anticholinergic load + P450 inhibition + impaired renal and hepatic clearance.  Clinical Advice: Strongly contraindicated or requires intensive monitoring and dose adjustment. ",Severe
+MemantineCandidate,Phenacemide," Key Risks: Hypotension, arrhythmia, QT prolongation, CNS pharmacodynamic overload.  Mechanisms: CYP2C19 inhibition, additive PD effects, impaired renal excretion.  Clinical Note: Monitor closely, especially if co-administered drugs rely on CYP2C19 or have narrow therapeutic windows. ",Moderate
+MemantineCandidate,Metharbital," Key Risks: Arrhythmia, hypotension, QT prolongation.  Mechanisms: CYP2C19/2D6 inhibition, renal tubular secretion block, dopaminergic/anticholinergic load.  Clinical Recommendation: Avoid combination or monitor intensively with dose adjustment and ECG monitoring. ",Severe
+MemantineCandidate,Trimethadione," Key Risks: Hypotension, QT prolongation, arrhythmia, metabolic inhibition.  Mechanisms: CYP2C19/2D6/2C9 inhibition, excretion interference, PD additive burden.  Recommendation: High clinical risk; avoid or require close monitoring and possible dose adjustments. ",Severe
+MemantineCandidate,Felbamate," Key Risks: Hypotension, arrhythmia, QT prolongation.  Mechanisms: CYP2C9/2D6/1A2 inhibition, dopaminergic & anticholinergic overload, reduced renal clearance.  Recommendation: Monitor cardiovascular status closely; avoid co-administered drugs with narrow therapeutic index metabolized by affected CYPs. ",Moderate
+MemantineCandidate,Oxcarbazepine," Key Risks: Hypotension, arrhythmia, QT prolongation, metabolic inhibition.  Mechanisms: CYP2C9/2C8/1A2 inhibition, PD burden (dopaminergic, anticholinergic), decreased clearance.  Clinical Recommendation: Strongly contraindicated or requires intensive monitoring and therapeutic drug monitoring (TDM). ",Severe
+MemantineCandidate,Zonisamide," Key Risks: Hypotension, QT prolongation, arrhythmia.  Mechanisms: CYP2C19/2C9/3A4 inhibition, dopaminergic/anticholinergic overload, impaired renal clearance.  Recommendation: Avoid combination or monitor closely with therapeutic drug monitoring and ECG. ",Severe
+MemantineCandidate,Carbamazepine," Key Risks: Hypotension, arrhythmia, QT prolongation.  Mechanisms: CYP2C9/2C8/2D6 inhibition, decreased renal clearance, dopaminergic/anticholinergic effects.  Clinical Recommendation: Contraindicated or requires strong clinical justification, dose adjustments, and close monitoring (ECG, TDM). ",Severe
+MemantineCandidate,Cannabidiol," Key Risks: Hypotension, arrhythmia, hepatotoxicity.  Mechanisms: Additive PD effects, MildCYP2D6 inhibition, renal clearance and liver metabolism impairment.  Clinical Note: Close monitoring recommended, especially in patients with pre-existing cardiovascular or hepatic impairment. ",Moderate
+MemantineCandidate,Tramadol," If categorized into standard Severeity buckets: -Severee — if metabolic compromise or seizure threshold issues are clinically relevant. -Moderate— if monitored and managed with dosage/titration.   “Significant DDI via CYP enzyme overlap and additive dopaminergic effects. Risk of hypotension, QT prolongation, and lowered seizure threshold. Class: Moderate–Severee.”. ",Moderate
+DextromethorphanCandidate,Methylphenobarbital," Expected Clinical Effects: Mildcardiovascular risks, especially QT prolongation and hypotension.  Although Class 5 is detected, the predicted risk level is Moderate(Pa = 0.307), with only Mildclinical effect predictions, low P450 interference, and absence of major high-Pa adverse outcomes.",Mild
+DextromethorphanCandidate,Ezogabine, Substantial pharmacodynamic overlap (CNS and cardiovascular effects).  Significant CYP450 metabolic interference (notably CYP2B6).  Moderateto high prediction for Severee clinical consequences (based on the charts and Pa/Pi scores). ,Moderate
+DextromethorphanCandidate,Remimazolam," Mechanism Involvement: Additive pharmacodynamic & CNS effects, CYP2C9 metabolism disruption. Additive hypotensive & hepatotoxic risks.  Major effects seen in PD interaction types.  These support clinical significance, particularly due to CNS and hypotensive risks. ",Moderate
+DextromethorphanCandidate,Rufinamide," While multiple mechanisms are involved (especially CNS and metabolic), the predicted interaction is Mildwith Class 1 being the dominant outcome.  Clinical vigilance is still advised, especially if combined with other CNS depressants or CYP2B6 substrates/inhibitors.",Mild
+DextromethorphanCandidate,Flunarizine," Clinical Significance: This interaction involves Moderatepharmacodynamic effects (especially CNS and cardiac), and CYP-mediated metabolic interference. Clinical monitoring is advised, particularly for cardiac parameters and CNS depression.  Action: Use with caution, consider dose adjustment or alternative drugs if clinically necessary.",Moderate
+DextromethorphanCandidate,Methsuximide," Main Risk: Additive CNS and PD effects.  CYP Involvement: CYP2C9, CYP1A2, CYP2D6.  Adverse Effect Concern: Cardiac (arrhythmia, bradycardia), CNS depression. Classification (5-Class): Trends toward Class 3 (intermediate Severeity). ",Moderate
+DextromethorphanCandidate,Levetiracetam, Most risk contributions come from minor PD and PK effects.  DDI class predictions lean toward Class 2 (mild).  No strong evidence of major or life-threatening interactions.  CNS depression and enzyme competition are relevant but likely manageable.,Mild
+DextromethorphanCandidate,Ethoxzolamide," Mechanisms: CYP inhibition (especially CYP2B6, CYP2C9), additive CNS and hypotensive effects, UGT inhibition.  Pharmacodynamic additive effects.  Additive hypotensive effects.  UGT inhibition.  Potentiation of pharmacological effects.  Altered metabolism and distribution.  These reflect a combined pharmacokinetic and pharmacodynamic profile, mostly additive and inhibitory in nature.",Moderate
+DextromethorphanCandidate,Tiagabine," The interaction demonstrates Mildrisk characterized primarily by additive CNS effects, Moderateinvolvement of CYP enzymes (notably CYP2C9), and does not strongly activate serious adverse events.  Moderateeffects on CYP1A2, 2C8, 3A4.  Suggests potential PK interaction, but again, no strong support for Severee toxicity.",Mild
+DextromethorphanCandidate,Clonazepam," High probability of Class 5 (0.796).  Strong pharmacodynamic additive mechanisms (CNS depression, serotonergic interaction).  Multiple CYP pathway overlaps.  Positive risk signals for major and minor Severeity classes. ",Severe
+DextromethorphanCandidate,Methacholine," Mechanism: Pharmacodynamic antagonism, cardiovascular effects, and CYP450-mediated interactions.  Risk Factors: Bradycardia, hypertension, hypotension, QT prolongation. ",Moderate
+DextromethorphanCandidate,Valproic acid," Mechanism: Pharmacodynamic additive effects (CNS, cardiovascular) + CYP450 enzyme metabolism (esp. CYP3A4 inhibition).  Adverse Effects: High potential for QT prolongation, arrhythmia, bradycardia, hypotension.  Clinical Concern: Requires monitoring, dose adjustment, or avoidance. ",Severe
+DextromethorphanCandidate,Caffeine," Interaction. However, strong evidence from cardiovascular adverse effects and enzyme inhibition justifies Moderateconcern.  Mechanism: PD antagonism, CYP2C9/2C19-mediated metabolic interference. Clinical Risk: Monitor for cardiac adverse effects and potential hepatic overload.",Moderate
+DextromethorphanCandidate,Clobazam," Mechanism: CNS depression, enzyme inhibition, serotonergic/cholinergic antagonism.  Risk: Requires dose adjustment or monitoring in polytherapy or in patients with CNS/cardiac vulnerabilities. ",Moderate
+DextromethorphanCandidate,Phensuximide," Mechanism: CNS and metabolic interactions predicted, but weak in probability.  Adverse Risk: Some cardiovascular signals (QT prolongation, hypotension), but overall low intensity.  Clinical Action: Generally safe in typical settings, but monitor in CNS-sensitive or cardiac-compromised patients. ",Mild
+DextromethorphanCandidate,Mephenytoin," Mechanism: CNS depression, CYP450 inhibition, additive PD effects.  Risk: Increased in CNS-sensitive patients or with polypharmacy. Monitor if combined with sedatives or QT-prolonging drugs.",Moderate
+DextromethorphanCandidate,Ethosuximide," While top class indicates a mild/Moderaterisk (Class 2), the cardiovascular effects, CYP2C9 inhibition, and multiple PD/PK mechanisms raise the concern to moderate.  Clinical Action: Monitor blood pressure, QT interval, and drug levels; consider caution with co-administration, especially in patients with cardiovascular or neurological vulnerability.",Moderate
+DextromethorphanCandidate,Lamotrigine," This interaction is likely to pose clinical risk, especially through cardiovascular toxicity and CNS depression.  Mechanism: CYP450 interference (notably CYP1A2), pharmacodynamic additive effects, and altered renal excretion.  Clinical Action: Strongly recommend monitoring, dose adjustment, or avoiding co-administration in high-risk patients. ",Severe
+DextromethorphanCandidate,Oxazepam," Mechanism: Combined pharmacodynamic (CNS & cardiovascular depression) and pharmacokinetic (CYP-mediated) interaction.  Adverse Effects: High probability of QT prolongation, hypotension, arrhythmia, and bradycardia.  Clinical Recommendation: Avoid co-administration or apply close monitoring and dose adjustments, especially in patients with cardiac risk or polypharmacy.",Severe
+DextromethorphanCandidate,Quazepam," Mechanism: CNS depression, CYP2C9-mediated metabolic interaction, cardiovascular impact.  Adverse Risks: Significant risk of hypotension, bradycardia, and QT prolongation.  Recommendation: Avoid combination or monitor intensively, especially in patients with cardiac or CNS vulnerability. ",Severe
+DextromethorphanCandidate,Vigabatrin," Mechanism: Additive CNS depression, CYP450 enzyme inhibition (CYP2C19, CYP3A4), cardiovascular stress.  Clinical Recommendation: Monitor QT interval and CNS effects closely. Avoid in polypharmacy or cardiac-risk patients unless necessary.",Moderate
+DextromethorphanCandidate,Lacosamide," Model output (Class 1) suggests MildSevereity, but the major risk score, multiple PD mechanisms, and borderline cardiovascular effects raise the clinical concern.  Classification: Moderateinteraction.  Mechanism: CNS and cardiovascular PD effects, CYP450 involvement (notably CYP2C9).  Recommendation: Monitor for cardiac conduction effects (QT, bradycardia); caution in patients with cardiac comorbidities or polypharmacy.",Moderate
+DextromethorphanCandidate,Baclofen," Severeity Class (Class 4–5 dominance).  Mechanistic risk (CNS depression, PD additive effects).  Enzyme overlap (notable, but not extremely high).  Main Risks: Additive CNS depression, serotonergic interaction, CYP3A4 inhibition. ",Moderate
+DextromethorphanCandidate,Fludeoxyglucose (18F)," P450 Interaction: Severee inhibition.  Mechanisms of Concern: Arrhythmia, PD, hepatotoxicity, electrolyte disturbances. ",Severe
+DextromethorphanCandidate,Midazolam," Mechanism: Pharmacodynamic additive effects (CNS depression, serotonin/GABA modulation).  Risk: Elevated CNS-related adverse effects and possible metabolic inhibition.  Class: Class 4 (Moderate–Severee). ",Moderate
+DextromethorphanCandidate,Diazepam," Mechanism: Pharmacodynamic (additive CNS depression, serotonergic/cholinergic effects), Pharmacokinetic (CYP and UGT interaction, metabolism inhibition).  Risk: Cardiac arrhythmia, hypotension, CNS depression, reduced metabolism, and altered drug clearance.",Severe
+DextromethorphanCandidate,Butriptyline,"Mechanism: Primarily pharmacodynamic (CNS depression, antidopaminergic, serotonergic) and P450 metabolic interference",Severe
+DextromethorphanCandidate,Phenacemide,"Despite some pharmacodynamic additive predictions (e.g., CNS depression), the overall DDI classification points toward Class 1 (0.762) and no strong risk in adverse outcomes or CYP-mediated serious interactions. Therefore, the interaction is best categorized as Mild, with a low clinical impact expected.",Mild
+DextromethorphanCandidate,Metharbital,"Strong evidence of overlapping CYP metabolism, significant PD interactions (CNS depression, antagonism of antiepileptic effects), and a dominant prediction in Severeity Class 5, supported by additive anesthetic + sedative properties.",Severe
+DextromethorphanCandidate,Trimethadione,"  Mechanism: Pharmacodynamic (CNS-focused).  Main Risk: Additive CNS depression, QT effects.  Enzymes Involved: CYP2C9, CYP3A4, CYP2D6 (inhibition).  Final Classification: Mildto ModerateInteraction. But clinically monitor for CNS depression and QT interval changes, especially if combined with other CNS or serotonergic agents.",Mild
+DextromethorphanCandidate,Felbamate,"This drug interaction is Moderatein Severeity, primarily pharmacodynamic in nature, with CNS depression, dopaminergic, and antiepileptic effects contributing. No strong CYP overlap or major adverse prediction flags were found.",Moderate
+DextromethorphanCandidate,Oxcarbazepine," Mechanism: Pharmacodynamic + PK (CYP2C9).  Main concerns: Hypotension, QT prolongation.  Recommended Action: Monitor cardiovascular status and consider metabolic pathway interactions.",Moderate
+DextromethorphanCandidate,Zonisamide,"These are pharmacodynamic interactions, primarily additive CNS depression, but not acutely dangerous alone unless the clinical context involves CNS depressants or seizure-prone individuals.",Mild
+DextromethorphanCandidate,Carbamazepine," Likely Mechanisms: CYP2C9 inhibition, CNS depression, PK/PD effects.  Primary Interaction Type: CNS-related + Metabolic. ",Severe
+DextromethorphanCandidate,Cannabidiol,"Mechanisms Involved:Pharmacodynamic additive effects, CYP450 enzyme inhibition, Additive CNS depression, Hepatotoxicity risk",Moderate
+DextromethorphanCandidate,Tramadol," Mechanism: Primarily pharmacodynamic additive effects, with major interaction risk.  CYPs Involved: Strong interaction mainly through CYP2C9 and CYP3A4.",Severe
